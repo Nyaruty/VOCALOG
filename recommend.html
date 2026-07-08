@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ja" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>おすすめ - VOCALOG</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="header"></div>
+
+  <main class="wrap">
+    <section class="card">
+      <h3 class="title" style="margin:0;">全体の新規おすすめ</h3>
+      <p class="muted">今週追加の中からピックアップ</p>
+      <div id="weeklyPicks" class="grid"></div>
+    </section>
+
+    <section class="card">
+      <div class="row" style="align-items:center;">
+        <h3 class="title" style="margin:0;">全体のおすすめ</h3>
+        <select id="recTag">
+          <option value="" disabled selected hidden>タグを選択</option>
+        </select>
+      </div>
+      <p class="muted" id="tagHint">タグを選ぶと10曲表示</p>
+      <div id="tagList" class="grid"></div>
+    </section>
+
+    <div class="footer">© VOCALOG</div>
+  </main>
+
+  <script src="./theme.js"></script>
+  <script type="module" src="./recommend.js"></script>
+</body>
+</html>
