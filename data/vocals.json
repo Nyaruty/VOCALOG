@@ -1,0 +1,226 @@
+[
+  {
+    "id": "kahu",
+    "name": "可不 (KAFU)",
+    "nameKana": "かふ",
+    "engine": "CeVIO AI",
+    "released": "2021-07-07",
+    "developer": "KAMITSUBAKI STUDIO",
+    "voiceProvider": "花譜",
+    "summary": "バーチャルシンガー花譜の声を元に制作された音楽的同位体。",
+    "links": {
+      "official": "https://musical-isotope.kamitsubaki.jp/product/kafu",
+      "wikipedia": "https://ja.wikipedia.org/wiki/可不"
+    }
+  },
+  {
+    "id": "hatunemiku",
+    "name": "初音ミク (Hatsune Miku)",
+    "nameKana": "はつねみく",
+    "engine": "VOCALOID2 / VOCALOID3 / VOCALOID4 / NT",
+    "released": "2007-08-31",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "藤田咲",
+    "summary": "世界的に人気を持つバーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/初音ミク"
+    }
+  },
+  {
+    "id": "kagaminerin",
+    "name": "鏡音リン (Kagamine Rin)",
+    "nameKana": "かがみねりん",
+    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "released": "2007-12-27",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "下田麻美",
+    "summary": "鏡音レンと対になるバーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/鏡音リン・レン"
+    }
+  },
+  {
+    "id": "gumi",
+    "name": "GUMI",
+    "nameKana": "ぐみ",
+    "engine": "VOCALOID2 / VOCALOID3 / VOCALOID4 / Synthesizer V AI",
+    "released": "2009-06-26",
+    "developer": "インターネット",
+    "voiceProvider": "中島愛",
+    "summary": "力強さと透明感を併せ持つ歌声が特徴のバーチャル・シンガー。",
+    "links": {
+      "official": "https://www.ssw.co.jp/products/vocaloid4/gumi",
+      "wikipedia": "https://ja.wikipedia.org/wiki/GUMI"
+    }
+  },
+  {
+    "id": "ia",
+    "name": "IA",
+    "nameKana": "いあ",
+    "engine": "VOCALOID3 / CeVIO AI",
+    "released": "2012-01-27",
+    "developer": "1st PLACE",
+    "voiceProvider": "Lia",
+    "summary": "透明感のある高音と伸びやかな歌声が特徴のバーチャル・シンガー。",
+    "links": {
+      "official": "https://ia-aria.com",
+      "wikipedia": "https://ja.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES-"
+    }
+  },
+  {
+    "id": "flower",
+    "name": "flower",
+    "nameKana": "ふらわ",
+    "engine": "VOCALOID3 / VOCALOID4",
+    "released": "2014-05-09",
+    "developer": "Gynoid",
+    "voiceProvider": "非公開",
+    "summary": "中性的で力強いハスキーな歌声が特徴のバーチャル・シンガー。",
+    "links": {
+      "official": "https://www.v-flower.jp",
+      "wikipedia": "https://ja.wikipedia.org/wiki/V_flower"
+    }
+  },
+  {
+    "id": "kagamineren",
+    "name": "鏡音レン (Kagamine Len)",
+    "nameKana": "かがみねれん",
+    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "released": "2007-12-27",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "下田麻美",
+    "summary": "鏡音リンと対になるバーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/鏡音リン・レン"
+    }
+  },
+  {
+    "id": "megurineruka",
+    "name": "巡音ルカ (Megurine Luka)",
+    "nameKana": "めぐりねるか",
+    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "released": "2009-01-30",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "浅川悠",
+    "summary": "日本語と英語の両方に対応したバーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/巡音ルカ"
+    }
+  },
+  {
+    "id": "kaito",
+    "name": "KAITO",
+    "nameKana": "かいと",
+    "engine": "VOCALOID / VOCALOID3 / VOCALOID4X / NT",
+    "released": "2006-02-17",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "風雅なおと",
+    "summary": "クリプトン初の男性バーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/KAITO"
+    }
+  },
+  {
+    "id": "kaaiyuki",
+    "name": "歌愛ユキ (Kaai Yuki)",
+    "nameKana": "かあいゆき",
+    "engine": "VOCALOID2",
+    "released": "2009-12-04",
+    "developer": "AH-Software",
+    "voiceProvider": "非公開（当時小学生）",
+    "summary": "幼い少女の声をもとに制作されたバーチャル・シンガー。",
+    "links": {
+      "official": "https://www.ah-soft.com/vocaloid/yuki",
+      "wikipedia": "https://ja.wikipedia.org/wiki/歌愛ユキ"
+    }
+  },
+  {
+    "id": "meiko",
+    "name": "MEIKO",
+    "nameKana": "めいこ",
+    "engine": "VOCALOID / VOCALOID3 / VOCALOID4X / NT",
+    "released": "2004-11-05",
+    "developer": "クリプトン・フューチャー・メディア",
+    "voiceProvider": "拝郷メイコ",
+    "summary": "クリプトン初の女性バーチャル・シンガー。",
+    "links": {
+      "official": "https://blog.piapro.net",
+      "wikipedia": "https://ja.wikipedia.org/wiki/MEIKO"
+    }
+  },
+  {
+    "id": "sekai",
+    "name": "星界 (SEKAI)",
+    "nameKana": "せかい",
+    "engine": "CeVIO AI",
+    "released": "2022-04-29",
+    "developer": "KAMITSUBAKI STUDIO",
+    "voiceProvider": "星街すいせい",
+    "summary": "星街すいせいの声を元に制作された音楽的同位体。",
+    "links": {
+      "official": "https://kamitsubaki.jp",
+      "wikipedia": "https://ja.wikipedia.org/wiki/音楽的同位体"
+    }
+  },
+  {
+    "id": "kamuigakupo",
+    "name": "神威がくぽ (Kamui Gakupo)",
+    "nameKana": "かむいがくぽ",
+    "engine": "VOCALOID2 / VOCALOID4",
+    "released": "2008-07-31",
+    "developer": "インターネット",
+    "voiceProvider": "GACKT",
+    "summary": "GACKTの声を元に制作された男性バーチャル・シンガー。",
+    "links": {
+      "official": "https://www.ssw.co.jp/products/vocaloid4/gackpoid",
+      "wikipedia": "https://ja.wikipedia.org/wiki/神威がくぽ"
+    }
+  },
+  {
+    "id": "kasaneteto",
+    "name": "重音テト (Kasane Teto)",
+    "nameKana": "かさねてと",
+    "engine": "UTAU / Synthesizer V AI",
+    "released": "2008-04-01",
+    "developer": "ツインドリル（音源配布）",
+    "voiceProvider": "小山乃舞世",
+    "summary": "エイプリルフール企画から誕生したバーチャル・シンガー。",
+    "links": {
+      "official": "https://kasaneteto.jp",
+      "wikipedia": "https://ja.wikipedia.org/wiki/重音テト"
+    }
+  },
+  {
+    "id": "zundamon",
+    "name": "ずんだもん (Zundamon)",
+    "nameKana": "",
+    "engine": "VOICEVOX / NEUTRINO / CeVIO AI",
+    "released": "2021-08-01",
+    "developer": "SSS合同会社（VOICEVOX） / 東北ずん子プロジェクト",
+    "voiceProvider": "伊藤ゆいな",
+    "summary": "東北ずん子プロジェクトから誕生したキャラクター。",
+    "links": {
+      "official": "https://zunko.jp",
+      "wikipedia": "https://ja.wikipedia.org/wiki/東北ずん子・ずんだもんプロジェクト"
+    }
+  },
+  {
+    "id": "otomatiuna",
+    "name": "音街ウナ (Otomachi Una)",
+    "nameKana": "おとまちうな",
+    "engine": "VOCALOID4 / VOCALOID6",
+    "released": "2016-07-30",
+    "developer": "インターネット",
+    "voiceProvider": "田中あいみ",
+    "summary": "元気で弾けるような歌声が特徴のバーチャル・シンガー。",
+    "links": {
+      "official": "https://www.ssw.co.jp/products/vocaloid4/una",
+      "wikipedia": "https://ja.wikipedia.org/wiki/音街ウナ"
+    }
+  }
+]
