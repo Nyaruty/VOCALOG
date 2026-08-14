@@ -1,3 +1,7 @@
+html {
+  overflow-y: scroll;
+}
+
 :root{
   --bg:#f7f7f8;
   --card:#ffffff;
