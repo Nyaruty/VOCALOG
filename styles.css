@@ -20,6 +20,19 @@
   --accent-text: #121212;
 }
 
+a, a:visited, a:hover, a:active {
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+*:focus {
+  outline-color: var(--text);
+}
+
 * {
   box-sizing: border-box;
 }
