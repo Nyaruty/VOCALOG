@@ -38,7 +38,6 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": ["名曲","和風","ロック"],
     "isRepresentative": true,
-    "representativeOrder": 1,
     "isNewWeeklyPick": true,
     "isWeeklyPromoted": true,
     "popularityScore": 100
@@ -60,7 +59,6 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": [],
     "isRepresentative": true,
-    "representativeOrder": 2,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
     "popularityScore": 0
