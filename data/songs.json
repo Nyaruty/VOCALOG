@@ -6,26 +6,19 @@
     "producerId": "mizunoatsu",
     "vocalId": "kafu",
     "youtubeId": "91R2hdV_-aQ",
-    "niconicoId": "",
-    "tags": [
-      "可不",
-      "バラード",
-      "CeVIO AI"
-    ],
+    "niconicoId": "sm39067316",
+    "tags": ["可不","バラード","CeVIO AI"],
     "released": "2021-07-22",
     "summary": "水野あつによるバラード楽曲",
     "lyricsLink": "https://utaten.com/lyric/nm21072605",
     "karaokeLink": "https://youtu.be/Z4605775KcE",
     "streamingLink": "https://open.spotify.com/intl-ja/track/4B6rDxockZoeeIw8Vx02T6",
     "addedWeek": "2026-08-10週",
-    "recommendTags": [
-      "エモい",
-      "バラード"
-    ],
-    "isRepresentative": false,
+    "recommendTags": ["初心者向け","エモい","バラード"],
+    "isRepresentative": true,
+    "popularityScore": 90,
     "isNewWeeklyPick": false,
-    "isWeeklyPromoted": true,
-    "popularityScore": 90
+    "isWeeklyPromoted": false
   },
   {
     "id": "senbonzakura",
@@ -35,27 +28,18 @@
     "vocalId": "hatsunemiku",
     "youtubeId": "shs0rAiwsGQ",
     "niconicoId": "sm15630734",
-    "tags": [
-      "初音ミク",
-      "和風",
-      "ロック",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","和風","ロック","VOCALOID"],
     "released": "2011-09-17",
     "summary": "黒うさP（WhiteFlame）による和風ロック楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb51202055",
     "karaokeLink": "https://youtu.be/_44thQJVxqk",
     "streamingLink": "https://open.spotify.com/intl-ja/track/38mUTswfszVFQ952r89AP8",
     "addedWeek": "2026-08-10週",
-    "recommendTags": [
-      "名曲",
-      "和風",
-      "ロック"
-    ],
+    "recommendTags": ["初心者向け","名曲","中毒性","和風","ロック"],
     "isRepresentative": true,
-    "isNewWeeklyPick": true,
-    "isWeeklyPromoted": true,
-    "popularityScore": 100
+    "popularityScore": 100,
+    "isNewWeeklyPick": false,
+    "isWeeklyPromoted": false
   },
   {
     "id": "hibana",
@@ -64,24 +48,19 @@
     "producerId": "deco27",
     "vocalId": "hatsunemiku",
     "youtubeId": "hxSg2Ioz3LM",
-    "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "ロック",
-      "エレクトロ",
-      "VOCALOID"
-    ],
+    "niconicoId": "sm31685272",
+    "tags": ["初音ミク","ロック","エレクトロ","VOCALOID"],
     "released": "2017-08-04",
     "summary": "DECO*27によるエレクトロロック楽曲",
     "lyricsLink": "https://utaten.com/lyric/sa17081004",
     "karaokeLink": "https://youtu.be/_aIpGmSh4os",
     "streamingLink": "https://open.spotify.com/intl-ja/track/2Rn8WVUI9l4SkzjbfISX7p",
     "addedWeek": "2026-08-10週",
-    "recommendTags": [],
+    "recommendTags": ["初心者向け","名曲","中毒性","ロック"],
     "isRepresentative": true,
+    "popularityScore": 98,
     "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
-    "popularityScore": 0
+    "isWeeklyPromoted": false
   },
   {
     "id": "tellyourworld",
@@ -91,22 +70,18 @@
     "vocalId": "hatsunemiku",
     "youtubeId": "PqJNc9KVIZE",
     "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "エレクトロポップ",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","エレクトロポップ","VOCALOID"],
     "released": "2012-03-12",
     "summary": "kz（livetune）によるエレクトロポップ楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb41209090",
     "karaokeLink": "https://youtu.be/rvRbxl3T1vc",
     "streamingLink": "https://open.spotify.com/intl-ja/track/6kBNaF6seD0JqFl4aBJ55e",
     "addedWeek": "2026-08-10週",
-    "recommendTags": [],
-    "isRepresentative": false,
+    "recommendTags": ["初心者向け","名曲","エモい","バラード"],
+    "isRepresentative": true,
+    "popularityScore": 98,
     "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
-    "popularityScore": 0
+    "isWeeklyPromoted": false
   },
   {
     "id": "melt",
@@ -116,12 +91,7 @@
     "vocalId": "hatsunemiku",
     "youtubeId": "",
     "niconicoId": "sm1715919",
-    "tags": [
-      "初音ミク",
-      "ポップス",
-      "恋愛",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","ポップス","恋愛","VOCALOID"],
     "released": "2007-12-07",
     "summary": "ryo（supercell）による代表的な初音ミク楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb50905027",
@@ -129,10 +99,10 @@
     "streamingLink": "",
     "addedWeek": "2026-08-10週",
     "recommendTags": [],
-    "isRepresentative": false,
+    "isRepresentative": true,
+    "popularityScore": 100,
     "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
-    "popularityScore": 0
+    "isWeeklyPromoted": false
   },
   {
     "id": "roki",
@@ -142,9 +112,7 @@
     "vocalId": "kagaminerin",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "鏡音リン"
-    ],
+    "tags": ["鏡音リン"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -165,9 +133,7 @@
     "vocalId": "hatunemiku",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク"
-    ],
+    "tags": ["初音ミク"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -188,9 +154,7 @@
     "vocalId": "gumi",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "GUMI"
-    ],
+    "tags": ["GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -208,16 +172,10 @@
     "title": "マトリョシカ",
     "titleKana": "",
     "producerId": "hati",
-    "vocalIds": [
-      "hatunemiku",
-      "gumi"
-    ],
+    "vocalIds": ["hatunemiku","gumi"],
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "GUMI"
-    ],
+    "tags": ["初音ミク","GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -235,16 +193,10 @@
     "title": "脳漿炸裂ガール",
     "titleKana": "",
     "producerId": "reruriri",
-    "vocalIds": [
-      "hatunemiku",
-      "gumi"
-    ],
+    "vocalIds": ["hatunemiku","gumi"],
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "GUMI"
-    ],
+    "tags": ["初音ミク","GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -265,9 +217,7 @@
     "vocalId": "gumi",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "GUMI"
-    ],
+    "tags": ["GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -288,9 +238,7 @@
     "vocalId": "ia",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "IA"
-    ],
+    "tags": ["IA"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -311,9 +259,7 @@
     "vocalId": "hatunemiku",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク"
-    ],
+    "tags": ["初音ミク"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -334,9 +280,7 @@
     "vocalId": "ia",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "IA"
-    ],
+    "tags": ["IA"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -357,9 +301,7 @@
     "vocalId": "flower",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "flower"
-    ],
+    "tags": ["flower"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -380,9 +322,7 @@
     "vocalId": "hatunemiku",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク"
-    ],
+    "tags": ["初音ミク"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -403,9 +343,7 @@
     "vocalId": "gumi",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "GUMI"
-    ],
+    "tags": ["GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -426,9 +364,7 @@
     "vocalId": "kagamineren",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "鏡音レン"
-    ],
+    "tags": ["鏡音レン"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -449,9 +385,7 @@
     "vocalId": "flower",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "flower"
-    ],
+    "tags": ["flower"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -472,9 +406,7 @@
     "vocalId": "flower",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "flower"
-    ],
+    "tags": ["flower"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
