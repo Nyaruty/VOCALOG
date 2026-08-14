@@ -51,7 +51,7 @@ function card(s){
       </h2>
       <p class="muted">${escapeHtml(pObj.name||"不明")} / ${escapeHtml(vocalNames(s, vocals)||"不明")}</p>
       ${s.released ? `<p class="muted dateLabel">公開：${escapeHtml(s.released)}</p>` : ""}
-      ${s.addedWeek ? `<p class="muted">NEW： ${escapeHtml(s.addedWeek)}</p>` : (s.addedAt ? `<p class="muted">🆕 ${escapeHtml(s.addedAt)}</p>` : "")}
+      ${s.addedWeek ? `<p class="muted">🆕 ${escapeHtml(s.addedWeek)}</p>` : (s.addedAt ? `<p class="muted">🆕 ${escapeHtml(s.addedAt)}</p>` : "")}
       ${s.summary ? `<p class="muted">${escapeHtml(s.summary)}</p>` : ""}
     </a>
   `
