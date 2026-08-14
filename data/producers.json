@@ -1,6 +1,6 @@
 [
   {
-    "id": "mizunoatu",
+    "id": "mizunoatsu",
     "name": "水野あつ",
     "nameKana": "みずのあつ",
     "aliases": [],
@@ -15,9 +15,7 @@
     "id": "kurousap",
     "name": "黒うさP",
     "nameKana": "くろうさぴー",
-    "aliases": [
-      "WhiteFlame"
-    ],
+    "aliases": ["WhiteFlame"],
     "activeYears": "2008-",
     "summary": "和風テイストと物語性の強い歌詞で知られるボカロP",
     "links": {
@@ -41,9 +39,7 @@
     "id": "kz",
     "name": "kz",
     "nameKana": "けーぜっと",
-    "aliases": [
-      "livetune"
-    ],
+    "aliases": ["livetune"],
     "activeYears": "2007-",
     "summary": "透明感のあるエレクトロサウンドと洗練されたメロディが特徴のボカロP",
     "links": {
@@ -55,9 +51,7 @@
     "id": "ryo",
     "name": "ryo",
     "nameKana": "りょう",
-    "aliases": [
-      "supercell"
-    ],
+    "aliases": ["supercell"],
     "activeYears": "2007-",
     "summary": "透明感のあるエレクトロサウンドと洗練されたメロディが特徴のボカロP",
     "links": {
@@ -78,12 +72,10 @@
     }
   },
   {
-    "id": "hati",
+    "id": "hachi",
     "name": "ハチ",
     "nameKana": "",
-    "aliases": [
-      "米津玄師"
-    ],
+    "aliases": ["米津玄師"],
     "activeYears": "2009-",
     "summary": "独特な世界観とダークで中毒性のあるメロディが特徴のボカロP",
     "links": {
@@ -92,7 +84,7 @@
     }
   },
   {
-    "id": "reruriri",
+    "id": "rerulili",
     "name": "れるりり",
     "nameKana": "",
     "aliases": [],
@@ -119,9 +111,7 @@
     "id": "kemu",
     "name": "kemu",
     "nameKana": "けむ",
-    "aliases": [
-      "kemu vox"
-    ],
+    "aliases": ["kemu vox"],
     "activeYears": "2011-",
     "summary": "高速ロックサウンドとドラマ性の強い展開が特徴のボカロP",
     "links": {
@@ -130,12 +120,10 @@
     }
   },
   {
-    "id": "zin",
+    "id": "jin",
     "name": "じん",
     "nameKana": "",
-    "aliases": [
-      "自然の敵P"
-    ],
+    "aliases": ["自然の敵P"],
     "activeYears": "2011-",
     "summary": "物語性の強い楽曲と疾走感あるロックサウンドが特徴のボカロP",
     "links": {
@@ -156,12 +144,10 @@
     }
   },
   {
-    "id": "barun",
+    "id": "balloon",
     "name": "バルーン",
     "nameKana": "",
-    "aliases": [
-      "須田景凪"
-    ],
+    "aliases": ["須田景凪"],
     "activeYears": "2013-",
     "summary": "ダークで洗練されたサウンドと比喩的で印象的な歌詞が特徴のボカロP",
     "links": {
@@ -194,7 +180,7 @@
     }
   },
   {
-    "id": "surii",
+    "id": "three",
     "name": "すりぃ",
     "nameKana": "",
     "aliases": [],
@@ -218,7 +204,7 @@
     }
   },
   {
-    "id": "kairikibea",
+    "id": "kairikibear",
     "name": "かいりきベア",
     "nameKana": "",
     "aliases": [],
@@ -242,7 +228,7 @@
     }
   },
   {
-    "id": "tumiki",
+    "id": "tsumiki",
     "name": "ツミキ",
     "nameKana": "",
     "aliases": [],
@@ -254,12 +240,10 @@
     }
   },
   {
-    "id": "pinokiopi",
+    "id": "pinocchiop",
     "name": "ピノキオピー",
     "nameKana": "",
-    "aliases": [
-      "PinocchioP"
-    ],
+    "aliases": ["PinocchioP"],
     "activeYears": "2009-",
     "summary": "独特な世界観と風刺的で哲学的な歌詞が特徴のボカロP",
     "links": {
@@ -271,9 +255,7 @@
     "id": "iroha",
     "name": "iroha",
     "nameKana": "いろは",
-    "aliases": [
-      "sasaki"
-    ],
+    "aliases": ["sasaki"],
     "activeYears": "2008-",
     "summary": "重厚なロックサウンドと力強いギターアレンジが特徴のボカロP",
     "links": {
@@ -282,7 +264,7 @@
     }
   },
   {
-    "id": "noripi",
+    "id": "noripy",
     "name": "のりぴー",
     "nameKana": "",
     "aliases": [],
@@ -306,12 +288,10 @@
     }
   },
   {
-    "id": "tyoutyop",
+    "id": "chouchoup",
     "name": "蝶々P",
     "nameKana": "ちょうちょうぴー",
-    "aliases": [
-      "papiyon"
-    ],
+    "aliases": ["papiyon"],
     "activeYears": "2009-",
     "summary": "叙情的で美しいメロディと繊細で切ない歌詞が特徴のボカロP",
     "links": {
@@ -344,7 +324,7 @@
     }
   },
   {
-    "id": "zimisamup",
+    "id": "jimmysamp",
     "name": "ジミーサムP",
     "nameKana": "じみーさむぴー",
     "aliases": [],
@@ -371,9 +351,7 @@
     "id": "nanou",
     "name": "ナノウ",
     "nameKana": "",
-    "aliases": [
-      "ほえほえP"
-    ],
+    "aliases": ["ほえほえP"],
     "activeYears": "2008-",
     "summary": "切なさを帯びたメロディと叙情的な歌詞が特徴のボカロP",
     "links": {
@@ -409,9 +387,7 @@
     "id": "koyori",
     "name": "koyori",
     "nameKana": "こより",
-    "aliases": [
-      "電ポルP"
-    ],
+    "aliases": ["電ポルP"],
     "activeYears": "2009-",
     "summary": "繊細で内省的な歌詞と透明感のあるロックサウンドが特徴のボカロP",
     "links": {
@@ -435,9 +411,7 @@
     "id": "mothy",
     "name": "mothy",
     "nameKana": "もっちー",
-    "aliases": [
-      "悪ノP"
-    ],
+    "aliases": ["悪ノP"],
     "activeYears": "2008-",
     "summary": "壮大な物語構成とクラシカルなサウンドが特徴のボカロP",
     "links": {
@@ -461,9 +435,7 @@
     "id": "minato",
     "name": "minato",
     "nameKana": "みなと",
-    "aliases": [
-      "流星P"
-    ],
+    "aliases": ["流星P"],
     "activeYears": "2008-",
     "summary": "叙情的で壮大なバラードと切なさを帯びたメロディが特徴のボカロP",
     "links": {
@@ -487,9 +459,7 @@
     "id": "tpocket",
     "name": "T-POCKET",
     "nameKana": "てぃーぽけっと",
-    "aliases": [
-      "とみー"
-    ],
+    "aliases": ["とみー"],
     "activeYears": "2009-",
     "summary": "ポップで親しみやすいメロディと可愛らしい世界観が特徴のボカロP",
     "links": {
@@ -510,7 +480,7 @@
     }
   },
   {
-    "id": "hinatadenkou",
+    "id": "hinatadenko",
     "name": "日向電工",
     "nameKana": "ひなたでんこう",
     "aliases": [],
@@ -525,9 +495,7 @@
     "id": "nbuna",
     "name": "n-buna",
     "nameKana": "なぶな",
-    "aliases": [
-      "ヨルシカ"
-    ],
+    "aliases": ["ヨルシカ"],
     "activeYears": "2012-",
     "summary": "叙情的で文学性の高い歌詞と透明感のあるサウンドが特徴のボカロP",
     "links": {
@@ -536,7 +504,7 @@
     }
   },
   {
-    "id": "sukoppu",
+    "id": "scop",
     "name": "すこっぷ",
     "nameKana": "",
     "aliases": [],
@@ -560,7 +528,7 @@
     }
   },
   {
-    "id": "yuriikanon",
+    "id": "yurrycanon",
     "name": "ユリイ・カノン",
     "nameKana": "",
     "aliases": [],
@@ -572,7 +540,7 @@
     }
   },
   {
-    "id": "nayutanseizin",
+    "id": "nayutalien",
     "name": "ナユタン星人",
     "nameKana": "なゆたんせいじん",
     "aliases": [],
@@ -599,9 +567,7 @@
     "id": "nuyuri",
     "name": "ぬゆり",
     "nameKana": "",
-    "aliases": [
-      "Lanndo"
-    ],
+    "aliases": ["Lanndo"],
     "activeYears": "2013-",
     "summary": "洗練されたエレクトロサウンドと独特な言葉選びが特徴のボカロP",
     "links": {
@@ -625,9 +591,7 @@
     "id": "tokotoko",
     "name": "TOKOTOKO",
     "nameKana": "とことこ",
-    "aliases": [
-      "西沢さんP"
-    ],
+    "aliases": ["西沢さんP"],
     "activeYears": "2010-",
     "summary": "爽やかでポップなロックサウンドと等身大の恋愛感情を描く歌詞が特徴のボカロP",
     "links": {
@@ -639,9 +603,7 @@
     "id": "easypop",
     "name": "EasyPop",
     "nameKana": "いーじーぽっぷ",
-    "aliases": [
-      "BETTI"
-    ],
+    "aliases": ["BETTI"],
     "activeYears": "2009-",
     "summary": "ダンサブルでキャッチーなエレクトロポップが特徴のボカロP",
     "links": {
@@ -650,12 +612,10 @@
     }
   },
   {
-    "id": "zizasup",
+    "id": "jesusp",
     "name": "じーざすP",
     "nameKana": "じーざすぴー",
-    "aliases": [
-      "ワンダフル☆オポチュニティ！"
-    ],
+    "aliases": ["ワンダフル☆オポチュニティ！"],
     "activeYears": "2010-",
     "summary": "エネルギッシュでコミカルな楽曲が特徴のボカロP",
     "links": {
@@ -691,9 +651,7 @@
     "id": "19ssoundfactory",
     "name": "19’s Sound Factory",
     "nameKana": "じゅうきゅうずさうんどふぁくとりー",
-    "aliases": [
-      "19 -iku-"
-    ],
+    "aliases": ["19 -iku-"],
     "activeYears": "2008-",
     "summary": "爽やかで温かみのあるポップサウンドと等身大の感情を描く歌詞が特徴のボカロP",
     "links": {
@@ -702,7 +660,7 @@
     }
   },
   {
-    "id": "hurukawahonpo",
+    "id": "furukawahompo",
     "name": "古川本舗",
     "nameKana": "ふるかわほんぽ",
     "aliases": [],
@@ -762,7 +720,7 @@
     }
   },
   {
-    "id": "nirukazitu",
+    "id": "nirukajitsu",
     "name": "煮ル果実",
     "nameKana": "にるかじつ",
     "aliases": [],
@@ -789,9 +747,7 @@
     "id": "wadatakeaki",
     "name": "和田たけあき",
     "nameKana": "わだたけあき",
-    "aliases": [
-      "くらげP"
-    ],
+    "aliases": ["くらげP"],
     "activeYears": "2010-",
     "summary": "キャッチーでユーモアのあるロックサウンドとテンポの良い言葉遊びが特徴のボカロP",
     "links": {
@@ -800,13 +756,10 @@
     }
   },
   {
-    "id": "hitosizukuyama",
+    "id": "hitoshizukuyama",
     "name": "ひとしずく×やま△",
     "nameKana": "ひとしずくかけるやまさんかっけー",
-    "aliases": [
-      "ひとしずくP",
-      "やま△"
-    ],
+    "aliases": ["ひとしずくP","やま△"],
     "activeYears": "2008-",
     "summary": "物語性の強い壮大な楽曲と緻密な世界観構築が特徴の音楽ユニット",
     "links": {
@@ -875,7 +828,7 @@
     }
   },
   {
-    "id": "yutyap",
+    "id": "yuchap",
     "name": "ゆちゃP",
     "nameKana": "ゆちゃぴー",
     "aliases": [],
@@ -902,9 +855,7 @@
     "id": "supercell",
     "name": "supercell",
     "nameKana": "すーぱーせる",
-    "aliases": [
-      "ryo"
-    ],
+    "aliases": ["ryo"],
     "activeYears": "2007-",
     "summary": "ryoを中心とした音楽ユニット",
     "links": {
@@ -949,7 +900,7 @@
     }
   },
   {
-    "id": "kinosita",
+    "id": "kinoshita",
     "name": "キノシタ",
     "nameKana": "",
     "aliases": [],
@@ -964,9 +915,7 @@
     "id": "harryp",
     "name": "HarryP",
     "nameKana": "はりーぴー",
-    "aliases": [
-      "はりー"
-    ],
+    "aliases": ["はりー"],
     "activeYears": "2013-",
     "summary": "温かみのあるメロディと前向きで優しいメッセージ性のある歌詞が特徴のボカロP",
     "links": {
@@ -1011,7 +960,7 @@
     }
   },
   {
-    "id": "zyon",
+    "id": "john",
     "name": "じょん",
     "nameKana": "",
     "aliases": [],
@@ -1026,9 +975,7 @@
     "id": "osterproject",
     "name": "OSTER project",
     "nameKana": "おすたーぷろじぇくと",
-    "aliases": [
-      "ふわりP"
-    ],
+    "aliases": ["ふわりP"],
     "activeYears": "2007-",
     "summary": "華やかでジャズやポップスを取り入れた明るいサウンドが特徴のボカロP",
     "links": {
@@ -1040,9 +987,7 @@
     "id": "toraboruta",
     "name": "トラボルタ",
     "nameKana": "",
-    "aliases": [
-      "トラボルタP"
-    ],
+    "aliases": ["トラボルタP"],
     "activeYears": "2008-",
     "summary": "切なさを帯びたメロディと温かみのあるポップサウンドが特徴のボカロP",
     "links": {
@@ -1051,12 +996,10 @@
     }
   },
   {
-    "id": "sigunarup",
+    "id": "signalp",
     "name": "シグナルP",
     "nameKana": "しぐなるぴー",
-    "aliases": [
-      "Dios"
-    ],
+    "aliases": ["Dios"],
     "activeYears": "2007-",
     "summary": "キャッチーで明るいポップサウンドと爽やかなメロディが特徴のボカロP",
     "links": {
@@ -1113,7 +1056,7 @@
     }
   },
   {
-    "id": "daibakuhasin",
+    "id": "daibakuhashin",
     "name": "大漠波新",
     "nameKana": "だいばくはしん",
     "aliases": [],
@@ -1125,7 +1068,7 @@
     }
   },
   {
-    "id": "naisyonopiasu",
+    "id": "naishonopierce",
     "name": "内緒のピアス",
     "nameKana": "ないしょのぴあす",
     "aliases": [],
