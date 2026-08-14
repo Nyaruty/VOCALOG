@@ -81,8 +81,8 @@ async function main(){
           loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      </div>` : `<p class="muted">YouTube ID が未設定</p>`}
-
+      </div>` : ""}
+      
       ${s.niconicoId ? `
   <div style="margin-top:12px;">
     <iframe
