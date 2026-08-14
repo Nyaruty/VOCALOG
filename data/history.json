@@ -14,6 +14,13 @@
     "links": ["https://zunko.jp"]
   },
   {
+    "id": "ikiru-niconico",
+    "year": 2021,
+    "title": "水野あつ「生きる」ニコニコ公開",
+    "summary": "2021年7月22日、ニコニコにて「生きる (feat. 可不)」公開",
+    "links": ["https://www.nicovideo.jp/watch/sm39067316"]
+  },
+  {
     "id": "ikiru-YouTube",
     "year": 2021,
     "title": "水野あつ「生きる」YouTube公開",
@@ -33,6 +40,13 @@
     "title": "DECO*27「ヒバナ」YouTube公開",
     "summary": "2017年8月4日、YouTubeにて「ヒバナ (feat. 初音ミク)」公開",
     "links": ["https://youtu.be/hxSg2Ioz3LM"]
+  },
+  {
+    "id": "hibana-niconico",
+    "year": 2017,
+    "title": "DECO*27「ヒバナ」ニコニコ公開",
+    "summary": "2017年8月4日、ニコニコにて「ヒバナ (feat. 初音ミク)」公開",
+    "links": ["https://www.nicovideo.jp/watch/sm31685272"]
   },
   {
     "id": "OtomachiUna",
@@ -117,13 +131,6 @@
     "title": "鏡音リン・レン 発売",
     "summary": "2007年12月27日、クリプトン・フューチャー・メディアより「鏡音リン・レン」が発売。VOCALOID2エンジンを採用",
     "links": ["https://blog.piapro.net"]
-  },
-  {
-    "id": "melt-YouTube",
-    "year": 2007,
-    "title": "ryo「メルト」YouTube公開",
-    "summary": "2007年12月13日、YouTubeにて「メルト (feat. 初音ミク)」公開",
-    "links": ["https://youtu.be/o1jAMSQyVPc"]
   },
   {
     "id": "melt-niconico",
