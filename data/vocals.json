@@ -1,6 +1,6 @@
 [
   {
-    "id": "kahu",
+    "id": "kafu",
     "name": "可不 (KAFU)",
     "nameKana": "かふ",
     "engine": "CeVIO AI",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "id": "hatunemiku",
+    "id": "hatsune-miku",
     "name": "初音ミク (Hatsune Miku)",
     "nameKana": "はつねみく",
     "engine": "VOCALOID2 / VOCALOID3 / VOCALOID4 / NT",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "id": "kagaminerin",
+    "id": "kagamine-rin",
     "name": "鏡音リン (Kagamine Rin)",
     "nameKana": "かがみねりん",
     "engine": "VOCALOID2 / VOCALOID4X / NT",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": "kagamineren",
+    "id": "kagamine-len",
     "name": "鏡音レン (Kagamine Len)",
     "nameKana": "かがみねれん",
     "engine": "VOCALOID2 / VOCALOID4X / NT",
@@ -98,7 +98,7 @@
     }
   },
   {
-    "id": "megurineruka",
+    "id": "megurine-luka",
     "name": "巡音ルカ (Megurine Luka)",
     "nameKana": "めぐりねるか",
     "engine": "VOCALOID2 / VOCALOID4X / NT",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "kaaiyuki",
+    "id": "kaai-yuki",
     "name": "歌愛ユキ (Kaai Yuki)",
     "nameKana": "かあいゆき",
     "engine": "VOCALOID2",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "kamuigakupo",
+    "id": "kamui-gakupo",
     "name": "神威がくぽ (Kamui Gakupo)",
     "nameKana": "かむいがくぽ",
     "engine": "VOCALOID2 / VOCALOID4",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "id": "kasaneteto",
+    "id": "kasane-teto",
     "name": "重音テト (Kasane Teto)",
     "nameKana": "かさねてと",
     "engine": "UTAU / Synthesizer V AI",
@@ -210,7 +210,7 @@
     }
   },
   {
-    "id": "otomatiuna",
+    "id": "otomachi-una",
     "name": "音街ウナ (Otomachi Una)",
     "nameKana": "おとまちうな",
     "engine": "VOCALOID4 / VOCALOID6",
