@@ -7,12 +7,12 @@
     "activeYears": "2018-",
     "summary": "繊細で透明感のあるメロディと心情を丁寧に描く歌詞が特徴のボカロP",
     "links": {
-      "youtube": "https://www.youtube.com/@atsu361",
+      "youtube": "https://youtube.com/@atsu361",
       "x": "https://x.com/atsu361"
     }
   },
   {
-    "id": "kurousap",
+    "id": "kurousaP",
     "name": "黒うさP",
     "nameKana": "くろうさぴー",
     "aliases": ["WhiteFlame"],
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "deco27",
+    "id": "DECO27",
     "name": "DECO*27",
     "nameKana": "でこにーな",
     "aliases": [],
@@ -60,7 +60,7 @@
     }
   },
   {
-    "id": "mikitop",
+    "id": "mikitoP",
     "name": "みきとP",
     "nameKana": "みきとぴー",
     "aliases": [],
