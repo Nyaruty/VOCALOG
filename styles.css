@@ -39,15 +39,21 @@ body{
 .sub{ color:var(--muted); font-size:12px; }
 
 .nav{
-  display:flex;
-  gap:10px;
-  flex-wrap:wrap;
-  margin:8px 0 12px;
-  row-gap:8px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 8px 0 12px;
 }
+
 .nav a{
-  text-decoration:none; color:var(--muted);
-  padding:6px 8px; border-radius:10px;
+  flex: 1;
+  min-width: 80px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--muted);
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: var(--card);
 }
 .nav a:hover{ background:var(--card); color:var(--text); }
 
