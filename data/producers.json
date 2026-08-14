@@ -8,21 +8,21 @@
     "summary": "繊細で透明感のあるメロディと心情を丁寧に描く歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@atsu361",
-      "x": "https://x.com/atsu361",
-      "website": "https://findmestore.thinkr.jp/collections/mizunoatsu"
+      "x": "https://x.com/atsu361"
     }
   },
   {
     "id": "kurousap",
     "name": "黒うさP",
     "nameKana": "くろうさぴー",
-    "aliases": ["WhiteFlame"],
+    "aliases": [
+      "WhiteFlame"
+    ],
     "activeYears": "2008-",
     "summary": "和風テイストと物語性の強い歌詞で知られるボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@WhiteFlameOfficial",
-      "x": "https://x.com/whiteflame_info",
-      "website": "https://whiteflame.jp"
+      "x": "https://x.com/whiteflame_info"
     }
   },
   {
@@ -34,34 +34,35 @@
     "summary": "キャッチーで中毒性のあるメロディと現代的なポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@DECO27",
-      "x": "https://x.com/deco27",
-      "website": "https://otoiro.co.jp"
+      "x": "https://x.com/deco27"
     }
   },
   {
     "id": "kz",
     "name": "kz",
     "nameKana": "けーぜっと",
-    "aliases": ["livetune"],
+    "aliases": [
+      "livetune"
+    ],
     "activeYears": "2007-",
     "summary": "透明感のあるエレクトロサウンドと洗練されたメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@kzlivetune",
-      "x": "https://x.com/kz_lt",
-      "website": "https://www.jvcmusic.co.jp/flyingdog/-/Artist/A025837.html"
+      "x": "https://x.com/kz_lt"
     }
   },
   {
     "id": "ryo",
     "name": "ryo",
     "nameKana": "りょう",
-    "aliases": ["supercell"],
+    "aliases": [
+      "supercell"
+    ],
     "activeYears": "2007-",
     "summary": "透明感のあるエレクトロサウンドと洗練されたメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@spclryo2673",
-      "x": "https://x.com/ryo_spcl",
-      "website": "https://www.ryo-supercell.com"
+      "x": "https://x.com/ryo_spcl"
     }
   },
   {
@@ -73,21 +74,21 @@
     "summary": "文学的で切なさを帯びた歌詞とバンドサウンドを基調とした叙情的な楽曲が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@mikitop",
-      "x": "https://x.com/mikito_p_",
-      "website": "https://mikitop.com"
+      "x": "https://x.com/mikito_p_"
     }
   },
   {
     "id": "hati",
     "name": "ハチ",
     "nameKana": "",
-    "aliases": ["米津玄師"],
+    "aliases": [
+      "米津玄師"
+    ],
     "activeYears": "2009-",
     "summary": "独特な世界観とダークで中毒性のあるメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@KenshiYonezu",
-      "x": "https://x.com/hachi_08",
-      "website": "https://reissuerecords.net"
+      "x": "https://x.com/hachi_08"
     }
   },
   {
@@ -99,8 +100,7 @@
     "summary": "物語性のある楽曲やメッセージ性の強い歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@rerulili",
-      "x": "https://x.com/rerulili",
-      "website": "https://www.sonymusic.co.jp/artist/rerulili"
+      "x": "https://x.com/rerulili"
     }
   },
   {
@@ -112,34 +112,35 @@
     "summary": "力強いロックサウンドとエモーショナルなメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@164203",
-      "x": "https://x.com/164203",
-      "website": "https://164203.com"
+      "x": "https://x.com/164203"
     }
   },
   {
     "id": "kemu",
     "name": "kemu",
     "nameKana": "けむ",
-    "aliases": ["kemu vox"],
+    "aliases": [
+      "kemu vox"
+    ],
     "activeYears": "2011-",
     "summary": "高速ロックサウンドとドラマ性の強い展開が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@keisanbeta",
-      "x": "https://x.com/keisanbeta",
-      "website": "https://www.kemu-voxx.com"
+      "x": "https://x.com/keisanbeta"
     }
   },
   {
     "id": "zin",
     "name": "じん",
     "nameKana": "",
-    "aliases": ["自然の敵P"],
+    "aliases": [
+      "自然の敵P"
+    ],
     "activeYears": "2011-",
     "summary": "物語性の強い楽曲と疾走感あるロックサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@officialyoutubechannel163",
-      "x": "https://x.com/jin_jin_suruyo",
-      "website": "https://jin-jin-suruyo.com"
+      "x": "https://x.com/jin_jin_suruyo"
     }
   },
   {
@@ -151,21 +152,21 @@
     "summary": "爽やかで疾走感のあるロックサウンドと切なさを帯びた青春的世界観が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@OrangestarAS",
-      "x": "https://x.com/MikanseiP",
-      "website": "https://orangestar.ponycanyon.co.jp"
+      "x": "https://x.com/MikanseiP"
     }
   },
   {
     "id": "barun",
     "name": "バルーン",
     "nameKana": "",
-    "aliases": ["須田景凪"],
+    "aliases": [
+      "須田景凪"
+    ],
     "activeYears": "2013-",
     "summary": "ダークで洗練されたサウンドと比喩的で印象的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@KeinaSudaBalloon",
-      "x": "https://x.com/balloon0120",
-      "website": "https://www.tabloid0120.com"
+      "x": "https://x.com/balloon0120"
     }
   },
   {
@@ -177,8 +178,7 @@
     "summary": "哲学的で痛みを伴う感情を描く歌詞とドラマチックな展開が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@IoriKanzaki",
-      "x": "https://x.com/kurogaki0311",
-      "website": "https://kanzakiiori.com"
+      "x": "https://x.com/kurogaki0311"
     }
   },
   {
@@ -190,8 +190,7 @@
     "summary": "ダークでスタイリッシュなサウンドと強い中毒性を持つメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@kanaria9704",
-      "x": "https://x.com/Kanaria390",
-      "website": "https://www.jvcmusic.co.jp/-/Artist/A026604.html"
+      "x": "https://x.com/Kanaria390"
     }
   },
   {
@@ -203,8 +202,7 @@
     "summary": "中毒性の高いメロディと軽快で癖のあるサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@THREEE_0303",
-      "x": "https://x.com/iii0303_8",
-      "website": "https://three0303.com"
+      "x": "https://x.com/iii0303_8"
     }
   },
   {
@@ -216,8 +214,7 @@
     "summary": "独特な言葉選びと中毒性のあるリズムが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@teniwoha_official",
-      "x": "https://x.com/edogawa_sampo",
-      "website": "https://nbcuni-music.com/teniwoha"
+      "x": "https://x.com/edogawa_sampo"
     }
   },
   {
@@ -229,8 +226,7 @@
     "summary": "攻撃的で中毒性の高いロックサウンドと感情をむき出しにした歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@kairikibear",
-      "x": "https://x.com/kairiki_bear",
-      "website": "https://www.subcul-rise.jp/kairiki_bear"
+      "x": "https://x.com/kairiki_bear"
     }
   },
   {
@@ -242,8 +238,7 @@
     "summary": "ポップで中毒性の高いメロディとキャッチーで疾走感あるサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@chinozo_",
-      "x": "https://x.com/chinozo_",
-      "website": "https://www.tunecore.co.jp/artists/ChinozoOO"
+      "x": "https://x.com/chinozo_"
     }
   },
   {
@@ -255,34 +250,35 @@
     "summary": "エモーショナルで疾走感のあるサウンドと文学的で比喩的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@tsumiki_NOMELONNOLEMON",
-      "x": "https://x.com/_23ki_",
-      "website": "https://www.sonymusic.co.jp/PR/NOMELONNOLEMON/profile"
+      "x": "https://x.com/_23ki_"
     }
   },
   {
     "id": "pinokiopi",
     "name": "ピノキオピー",
     "nameKana": "",
-    "aliases": ["PinocchioP"],
+    "aliases": [
+      "PinocchioP"
+    ],
     "activeYears": "2009-",
     "summary": "独特な世界観と風刺的で哲学的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@pinocchiop",
-      "x": "https://x.com/pinocchiop",
-      "website": "https://pinocchiop.com"
+      "x": "https://x.com/pinocchiop"
     }
   },
   {
     "id": "iroha",
     "name": "iroha",
     "nameKana": "いろは",
-    "aliases": ["sasaki"],
+    "aliases": [
+      "sasaki"
+    ],
     "activeYears": "2008-",
     "summary": "重厚なロックサウンドと力強いギターアレンジが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@iroha_sasaki",
-      "x": "https://x.com/iroha_sasaki",
-      "website": "https://xiao-sphere.net"
+      "x": "https://x.com/iroha_sasaki"
     }
   },
   {
@@ -294,8 +290,7 @@
     "summary": "爽やかなポップサウンドと親しみやすいメロディが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@noripy0929",
-      "x": "https://x.com/noripy929",
-      "website": "https://piapro.jp/Noripy929/content_list/audio/1"
+      "x": "https://x.com/noripy929"
     }
   },
   {
@@ -307,21 +302,21 @@
     "summary": "等身大の感情を描く歌詞と温かみのあるポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@40mP",
-      "x": "https://x.com/40mp",
-      "website": "https://www.40mp-official.com"
+      "x": "https://x.com/40mp"
     }
   },
   {
     "id": "tyoutyop",
     "name": "蝶々P",
     "nameKana": "ちょうちょうぴー",
-    "aliases": ["papiyon"],
+    "aliases": [
+      "papiyon"
+    ],
     "activeYears": "2009-",
     "summary": "叙情的で美しいメロディと繊細で切ない歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@papiyon_cyoucyo",
-      "x": "https://x.com/papiyon_cyoucyo",
-      "website": "http://papiyon-at.com"
+      "x": "https://x.com/papiyon_cyoucyo"
     }
   },
   {
@@ -333,8 +328,7 @@
     "summary": "ジャズやポップスの要素を取り入れた洗練されたサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@dixieflatlineVOC",
-      "x": "https://x.com/DixieF_Yeheyuan",
-      "website": "https://karent.jp/artist/pp000004"
+      "x": "https://x.com/DixieF_Yeheyuan"
     }
   },
   {
@@ -346,8 +340,7 @@
     "summary": "透明感のあるメロディと爽やかなポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@yuuyu_ssry",
-      "x": "https://x.com/yuuyu_ssry",
-      "website": "https://yuuyu-official.amebaownd.com"
+      "x": "https://x.com/yuuyu_ssry"
     }
   },
   {
@@ -359,8 +352,7 @@
     "summary": "英語詞を取り入れたクールなロックサウンドと洗練されたアレンジが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@jimmythumb",
-      "x": "https://x.com/jimmythumb",
-      "website": "https://ssl.sme.co.jp/artist/jimmythumbp/profile"
+      "x": "https://x.com/jimmythumb"
     }
   },
   {
@@ -372,21 +364,21 @@
     "summary": "静かで儚いメロディと繊細で切実な感情を描く歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@keeno_official6365",
-      "x": "https://x.com/kee_no",
-      "website": "https://wmg.jp/keeno"
+      "x": "https://x.com/kee_no"
     }
   },
   {
     "id": "nanou",
     "name": "ナノウ",
     "nameKana": "",
-    "aliases": ["ほえほえP"],
+    "aliases": [
+      "ほえほえP"
+    ],
     "activeYears": "2008-",
     "summary": "切なさを帯びたメロディと叙情的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@NanouOfficial",
-      "x": "https://x.com/koyama_nanou",
-      "website": "https://piapro.jp/nir580"
+      "x": "https://x.com/koyama_nanou"
     }
   },
   {
@@ -398,8 +390,7 @@
     "summary": "鋭い言葉選びと疾走感あふれるロックサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@hitorie_JP",
-      "x": "https://x.com/wowaka",
-      "website": "https://hitori-atelier.com"
+      "x": "https://x.com/wowaka"
     }
   },
   {
@@ -411,21 +402,21 @@
     "summary": "キャッチーで可愛らしいポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "https://www.youtube.com/@Junky_BOX",
-      "x": "https://x.com/Junky_Box",
-      "website": "https://piapro.jp/gunzmanz"
+      "x": "https://x.com/Junky_Box"
     }
   },
   {
     "id": "koyori",
     "name": "koyori",
     "nameKana": "こより",
-    "aliases": ["電ポルP"],
+    "aliases": [
+      "電ポルP"
+    ],
     "activeYears": "2009-",
     "summary": "繊細で内省的な歌詞と透明感のあるロックサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -437,21 +428,21 @@
     "summary": "攻撃的で社会風刺的な歌詞と疾走感のあるロックサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "mothy",
     "name": "mothy",
     "nameKana": "もっちー",
-    "aliases": ["悪ノP"],
+    "aliases": [
+      "悪ノP"
+    ],
     "activeYears": "2008-",
     "summary": "壮大な物語構成とクラシカルなサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -463,21 +454,21 @@
     "summary": "透明感のあるサウンドと叙情的なメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "minato",
     "name": "minato",
     "nameKana": "みなと",
-    "aliases": ["流星P"],
+    "aliases": [
+      "流星P"
+    ],
     "activeYears": "2008-",
     "summary": "叙情的で壮大なバラードと切なさを帯びたメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -489,21 +480,21 @@
     "summary": "切なく美しいメロディと王道バラードが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "tpocket",
     "name": "T-POCKET",
     "nameKana": "てぃーぽけっと",
-    "aliases": ["とみー"],
+    "aliases": [
+      "とみー"
+    ],
     "activeYears": "2009-",
     "summary": "ポップで親しみやすいメロディと可愛らしい世界観が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -515,8 +506,7 @@
     "summary": "力強いメッセージ性と合唱的な広がりを持つ楽曲が特徴のクリエイター",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -528,21 +518,21 @@
     "summary": "鋭く攻撃的なロックサウンドと中毒性の高いメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "nbuna",
     "name": "n-buna",
     "nameKana": "なぶな",
-    "aliases": ["ヨルシカ"],
+    "aliases": [
+      "ヨルシカ"
+    ],
     "activeYears": "2012-",
     "summary": "叙情的で文学性の高い歌詞と透明感のあるサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -554,8 +544,7 @@
     "summary": "等身大の感情を丁寧に描く歌詞と爽やかで温かみのあるポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -567,8 +556,7 @@
     "summary": "不穏でダークなサウンドと独特な言葉選びが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -580,8 +568,7 @@
     "summary": "激しく感情を揺さぶるロックサウンドと文学的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -593,8 +580,7 @@
     "summary": "宇宙をモチーフにしたポップで中毒性の高いサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -606,21 +592,21 @@
     "summary": "ダークで中毒性のあるサウンドと攻撃的かつ内省的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "nuyuri",
     "name": "ぬゆり",
     "nameKana": "",
-    "aliases": ["Lanndo"],
+    "aliases": [
+      "Lanndo"
+    ],
     "activeYears": "2013-",
     "summary": "洗練されたエレクトロサウンドと独特な言葉選びが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -632,47 +618,49 @@
     "summary": "歌い手出身のシンガーソングライター",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "tokotoko",
     "name": "TOKOTOKO",
     "nameKana": "とことこ",
-    "aliases": ["西沢さんP"],
+    "aliases": [
+      "西沢さんP"
+    ],
     "activeYears": "2010-",
     "summary": "爽やかでポップなロックサウンドと等身大の恋愛感情を描く歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "easypop",
     "name": "EasyPop",
     "nameKana": "いーじーぽっぷ",
-    "aliases": ["BETTI"],
+    "aliases": [
+      "BETTI"
+    ],
     "activeYears": "2009-",
     "summary": "ダンサブルでキャッチーなエレクトロポップが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "zizasup",
     "name": "じーざすP",
     "nameKana": "じーざすぴー",
-    "aliases": ["ワンダフル☆オポチュニティ！"],
+    "aliases": [
+      "ワンダフル☆オポチュニティ！"
+    ],
     "activeYears": "2010-",
     "summary": "エネルギッシュでコミカルな楽曲が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -684,8 +672,7 @@
     "summary": "透明感のある切ないメロディと叙情的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -697,21 +684,21 @@
     "summary": "ダークで独特な世界観と鋭く印象的なメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "19ssoundfactory",
     "name": "19’s Sound Factory",
     "nameKana": "じゅうきゅうずさうんどふぁくとりー",
-    "aliases": ["19 -iku-"],
+    "aliases": [
+      "19 -iku-"
+    ],
     "activeYears": "2008-",
     "summary": "爽やかで温かみのあるポップサウンドと等身大の感情を描く歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -723,8 +710,7 @@
     "summary": "静謐で文学的な世界観と繊細なサウンドメイクが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -736,8 +722,7 @@
     "summary": "ポップで物語性のある楽曲が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -749,8 +734,7 @@
     "summary": "ダークでスタイリッシュなサウンドと中毒性の高いメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -762,8 +746,7 @@
     "summary": "独特なコード進行と不安定で幻想的なサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -775,8 +758,7 @@
     "summary": "浮遊感のあるポップサウンドと独特な言葉選びが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -788,8 +770,7 @@
     "summary": "緻密でダークなサウンドと独特な語感の歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -801,34 +782,36 @@
     "summary": "ダークで実験的なエレクトロサウンドと強烈な中毒性が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "wadatakeaki",
     "name": "和田たけあき",
     "nameKana": "わだたけあき",
-    "aliases": ["くらげP"],
+    "aliases": [
+      "くらげP"
+    ],
     "activeYears": "2010-",
     "summary": "キャッチーでユーモアのあるロックサウンドとテンポの良い言葉遊びが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "hitosizukuyama",
     "name": "ひとしずく×やま△",
     "nameKana": "ひとしずくかけるやまさんかっけー",
-    "aliases": ["ひとしずくP", "やま△"],
+    "aliases": [
+      "ひとしずくP",
+      "やま△"
+    ],
     "activeYears": "2008-",
     "summary": "物語性の強い壮大な楽曲と緻密な世界観構築が特徴の音楽ユニット",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -840,8 +823,7 @@
     "summary": "軽快でキャッチーなポップサウンドと親しみやすいメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -853,8 +835,7 @@
     "summary": "疾走感のあるロックサウンドと切ないメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -866,8 +847,7 @@
     "summary": "叙情的で切ないメロディと文学的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -879,8 +859,7 @@
     "summary": "疾走感のあるロックサウンドと切実な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -892,8 +871,7 @@
     "summary": "激しいラウドロック／メタルサウンドと痛みを伴う感情表現が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -905,8 +883,7 @@
     "summary": "エネルギッシュで疾走感のあるロックサウンドとキャッチーなメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -918,21 +895,21 @@
     "summary": "情熱的でエモーショナルなロックサウンドとまっすぐな感情表現が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "supercell",
     "name": "supercell",
     "nameKana": "すーぱーせる",
-    "aliases": ["ryo"],
+    "aliases": [
+      "ryo"
+    ],
     "activeYears": "2007-",
     "summary": "ryoを中心とした音楽ユニット",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -944,8 +921,7 @@
     "summary": "疾走感のあるロックサウンドとドラマチックな展開が特徴のクリエイター",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -957,8 +933,7 @@
     "summary": "幻想的で実験的なサウンドと物語性の強い独創的な世界観が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -970,8 +945,7 @@
     "summary": "人間のように自然で高精度なボーカル調声と完成度の高いポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -983,21 +957,21 @@
     "summary": "ハイテンションでポップなサウンドと遊び心あふれる歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "harryp",
     "name": "HarryP",
     "nameKana": "はりーぴー",
-    "aliases": ["はりー"],
+    "aliases": [
+      "はりー"
+    ],
     "activeYears": "2013-",
     "summary": "温かみのあるメロディと前向きで優しいメッセージ性のある歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1009,8 +983,7 @@
     "summary": "超高速テンポと圧倒的な情報量を持つ楽曲が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1022,8 +995,7 @@
     "summary": "コミカルでテンポの良い楽曲とネット文化を取り入れたユーモアあふれる歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1035,8 +1007,7 @@
     "summary": "シンプルで中毒性の高いメロディと独特なセンスの歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1048,47 +1019,49 @@
     "summary": "ダークでスタイリッシュなサウンドと感情を鋭く切り取る歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "osterproject",
     "name": "OSTER project",
     "nameKana": "おすたーぷろじぇくと",
-    "aliases": ["ふわりP"],
+    "aliases": [
+      "ふわりP"
+    ],
     "activeYears": "2007-",
     "summary": "華やかでジャズやポップスを取り入れた明るいサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "toraboruta",
     "name": "トラボルタ",
     "nameKana": "",
-    "aliases": ["トラボルタP"],
+    "aliases": [
+      "トラボルタP"
+    ],
     "activeYears": "2008-",
     "summary": "切なさを帯びたメロディと温かみのあるポップサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
     "id": "sigunarup",
     "name": "シグナルP",
     "nameKana": "しぐなるぴー",
-    "aliases": ["Dios"],
+    "aliases": [
+      "Dios"
+    ],
     "activeYears": "2007-",
     "summary": "キャッチーで明るいポップサウンドと爽やかなメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1100,8 +1073,7 @@
     "summary": "洗練されたダンスミュージックとスタイリッシュなサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1113,8 +1085,7 @@
     "summary": "高速でエネルギッシュなロックサウンドとドラマチックな展開が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1126,8 +1097,7 @@
     "summary": "ミニマルでスタイリッシュなサウンドと独特な浮遊感のあるメロディが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1139,8 +1109,7 @@
     "summary": "不穏でダークなサウンドと感情的な歌詞が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1152,8 +1121,7 @@
     "summary": "独特な言葉選びと疾走感のあるサウンドが特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   },
   {
@@ -1165,8 +1133,7 @@
     "summary": "ダークで中毒性の高いサウンドと独特な歌詞表現が特徴のボカロP",
     "links": {
       "youtube": "",
-      "x": "",
-      "website": ""
+      "x": ""
     }
   }
 ]
