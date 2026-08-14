@@ -5,7 +5,7 @@ function setIcon() {
   const btn = document.getElementById("themeToggle")
   if (!btn) return
   const theme = root.getAttribute("data-theme") || "light"
-  btn.textContent = (theme === "dark") ? "○" : "●"
+  btn.textContent = (theme === "dark") ? "☀️" : "🌙"
 }
 
 function applyTheme(t){
@@ -15,6 +15,8 @@ function applyTheme(t){
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  const saved = localStorage.getItem(key) || "light"
+  root.setAttribute("data-theme", saved)
   setIcon()
 })
 
