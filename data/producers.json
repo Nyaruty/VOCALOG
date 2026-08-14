@@ -7,7 +7,7 @@
     "activeYears": "2018-",
     "summary": "繊細で透明感のあるメロディと心情を丁寧に描く歌詞が特徴のボカロP",
     "links": {
-      "youtube": "https://youtube.com/@atsu361",
+      "youtube": "https://www.youtube.com/@atsu361",
       "x": "https://x.com/atsu361"
     }
   },
@@ -132,7 +132,7 @@
     }
   },
   {
-    "id": "orangestar",
+    "id": "Orangestar",
     "name": "Orangestar",
     "nameKana": "おれんじすたー",
     "aliases": [],
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "kanaria",
+    "id": "Kanaria",
     "name": "Kanaria",
     "nameKana": "かなりあ",
     "aliases": [],
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": "chinozo",
+    "id": "Chinozo",
     "name": "Chinozo",
     "nameKana": "ちのぞー",
     "aliases": [],
@@ -276,7 +276,7 @@
     }
   },
   {
-    "id": "40mp",
+    "id": "40mP",
     "name": "40mP",
     "nameKana": "よんじゅうめーとるぴー",
     "aliases": [],
@@ -288,7 +288,7 @@
     }
   },
   {
-    "id": "chouchoup",
+    "id": "chouchouP",
     "name": "蝶々P",
     "nameKana": "ちょうちょうぴー",
     "aliases": ["papiyon"],
@@ -300,7 +300,7 @@
     }
   },
   {
-    "id": "dixieflatline",
+    "id": "DixieFlatline",
     "name": "Dixie Flatline",
     "nameKana": "でぃくしーふらっとらいん",
     "aliases": [],
@@ -324,7 +324,7 @@
     }
   },
   {
-    "id": "jimmysamp",
+    "id": "jimmysamP",
     "name": "ジミーサムP",
     "nameKana": "じみーさむぴー",
     "aliases": [],
@@ -372,7 +372,7 @@
     }
   },
   {
-    "id": "junky",
+    "id": "Junky",
     "name": "Junky",
     "nameKana": "じゃんきー",
     "aliases": [],
@@ -396,7 +396,7 @@
     }
   },
   {
-    "id": "neru",
+    "id": "Neru",
     "name": "Neru",
     "nameKana": "ねる",
     "aliases": [],
@@ -456,7 +456,7 @@
     }
   },
   {
-    "id": "tpocket",
+    "id": "TPOCKET",
     "name": "T-POCKET",
     "nameKana": "てぃーぽけっと",
     "aliases": ["とみー"],
@@ -576,7 +576,7 @@
     }
   },
   {
-    "id": "eve",
+    "id": "Eve",
     "name": "Eve",
     "nameKana": "いぶ",
     "aliases": [],
@@ -588,7 +588,7 @@
     }
   },
   {
-    "id": "tokotoko",
+    "id": "TOKOTOKO",
     "name": "TOKOTOKO",
     "nameKana": "とことこ",
     "aliases": ["西沢さんP"],
@@ -600,7 +600,7 @@
     }
   },
   {
-    "id": "easypop",
+    "id": "EasyPop",
     "name": "EasyPop",
     "nameKana": "いーじーぽっぷ",
     "aliases": ["BETTI"],
@@ -612,7 +612,7 @@
     }
   },
   {
-    "id": "jesusp",
+    "id": "jesusP",
     "name": "じーざすP",
     "nameKana": "じーざすぴー",
     "aliases": ["ワンダフル☆オポチュニティ！"],
@@ -648,7 +648,7 @@
     }
   },
   {
-    "id": "19ssoundfactory",
+    "id": "19sSoundFactory",
     "name": "19’s Sound Factory",
     "nameKana": "じゅうきゅうずさうんどふぁくとりー",
     "aliases": ["19 -iku-"],
@@ -672,7 +672,7 @@
     }
   },
   {
-    "id": "nem",
+    "id": "Nem",
     "name": "Nem",
     "nameKana": "ねむ",
     "aliases": [],
@@ -684,7 +684,7 @@
     }
   },
   {
-    "id": "azari",
+    "id": "Azari",
     "name": "Azari",
     "nameKana": "あざり",
     "aliases": [],
@@ -732,7 +732,7 @@
     }
   },
   {
-    "id": "maretu",
+    "id": "Maretu",
     "name": "Maretu",
     "nameKana": "まれてゅ",
     "aliases": [],
@@ -768,7 +768,7 @@
     }
   },
   {
-    "id": "tanakab",
+    "id": "tanakaB",
     "name": "田中B",
     "nameKana": "たなかびー",
     "aliases": [],
@@ -780,7 +780,7 @@
     }
   },
   {
-    "id": "kuwagatap",
+    "id": "kuwagataP",
     "name": "クワガタP",
     "nameKana": "くわがたぴー",
     "aliases": [],
@@ -792,7 +792,7 @@
     }
   },
   {
-    "id": "niop",
+    "id": "nioP",
     "name": "におP",
     "nameKana": "におぴー",
     "aliases": [],
@@ -828,7 +828,7 @@
     }
   },
   {
-    "id": "yuchap",
+    "id": "yuchaP",
     "name": "ゆちゃP",
     "nameKana": "ゆちゃぴー",
     "aliases": [],
@@ -840,7 +840,7 @@
     }
   },
   {
-    "id": "buzzg",
+    "id": "buzzG",
     "name": "buzzG",
     "nameKana": "ばずじー",
     "aliases": [],
@@ -876,7 +876,7 @@
     }
   },
   {
-    "id": "sasakureuk",
+    "id": "sasakureUK",
     "name": "sasakure.UK",
     "nameKana": "ささくれゆーけー",
     "aliases": [],
@@ -888,7 +888,7 @@
     }
   },
   {
-    "id": "mitchiem",
+    "id": "MitchieM",
     "name": "Mitchie M",
     "nameKana": "みっちーえむ",
     "aliases": [],
@@ -912,7 +912,7 @@
     }
   },
   {
-    "id": "harryp",
+    "id": "HarryP",
     "name": "HarryP",
     "nameKana": "はりーぴー",
     "aliases": ["はりー"],
@@ -924,7 +924,7 @@
     }
   },
   {
-    "id": "cosmobousoup",
+    "id": "cosMobousouP",
     "name": "cosMo@暴走P",
     "nameKana": "こすもあっとぼうそうぴー",
     "aliases": [],
@@ -936,7 +936,7 @@
     }
   },
   {
-    "id": "owatap",
+    "id": "owataP",
     "name": "オワタP",
     "nameKana": "おわたぴー",
     "aliases": [],
@@ -972,7 +972,7 @@
     }
   },
   {
-    "id": "osterproject",
+    "id": "OSTERproject",
     "name": "OSTER project",
     "nameKana": "おすたーぷろじぇくと",
     "aliases": ["ふわりP"],
@@ -996,7 +996,7 @@
     }
   },
   {
-    "id": "signalp",
+    "id": "signalP",
     "name": "シグナルP",
     "nameKana": "しぐなるぴー",
     "aliases": ["Dios"],
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "id": "tokup",
+    "id": "tokuP",
     "name": "とくP",
     "nameKana": "とくぴー",
     "aliases": [],
@@ -1020,7 +1020,7 @@
     }
   },
   {
-    "id": "divela",
+    "id": "DIVELA",
     "name": "DIVELA",
     "nameKana": "でぃべら",
     "aliases": [],
