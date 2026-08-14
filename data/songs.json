@@ -1,28 +1,21 @@
 [
   {
-    "id": "ikiru-kahu-mizunoatu",
+    "id": "ikiru",
     "title": "生きる",
     "titleKana": "いきる",
-    "producerId": "mizunoatu",
-    "vocalId": "kahu",
+    "producerId": "mizunoatsu",
+    "vocalId": "kafu",
     "youtubeId": "91R2hdV_-aQ",
     "niconicoId": "",
-    "tags": [
-      "可不",
-      "バラード",
-      "CeVIO AI"
-    ],
+    "tags": ["可不","バラード","CeVIO AI"],
     "released": "2021-07-22",
     "summary": "水野あつによるバラード楽曲",
     "lyricsLink": "https://utaten.com/lyric/nm21072605",
     "karaokeLink": "https://youtu.be/Z4605775KcE",
     "streamingLink": "https://open.spotify.com/intl-ja/track/4B6rDxockZoeeIw8Vx02T6",
-    "addedAt": "2026-03-09",
+    "addedAt": "2026-03-10",
     "addedWeek": "2026-03-09週",
-    "recommendTags": [
-      "エモい",
-      "バラード"
-    ],
+    "recommendTags": ["エモい","バラード"],
     "isRepresentative": false,
     "representativeOrder": 0,
     "isNewWeeklyPick": true,
@@ -30,19 +23,14 @@
     "popularityScore": 90
   },
   {
-    "id": "senbonzakura-hatunemiku-kurousap",
+    "id": "senbonzakura",
     "title": "千本桜",
     "titleKana": "せんぼんざくら",
     "producerId": "kurousap",
-    "vocalId": "hatunemiku",
+    "vocalId": "hatsunemiku",
     "youtubeId": "shs0rAiwsGQ",
     "niconicoId": "sm15630734",
-    "tags": [
-      "初音ミク",
-      "和風",
-      "ロック",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","和風","ロック","VOCALOID"],
     "released": "2011-09-17",
     "summary": "黒うさP（WhiteFlame）による和風ロック楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb51202055",
@@ -50,11 +38,7 @@
     "streamingLink": "https://open.spotify.com/intl-ja/track/38mUTswfszVFQ952r89AP8",
     "addedAt": "2026-03-09",
     "addedWeek": "2026-03-09週",
-    "recommendTags": [
-      "名曲",
-      "和風",
-      "ロック"
-    ],
+    "recommendTags": ["名曲","和風","ロック"],
     "isRepresentative": true,
     "representativeOrder": 1,
     "isNewWeeklyPick": true,
@@ -62,19 +46,14 @@
     "popularityScore": 100
   },
   {
-    "id": "hibana-hatunemiku-deco27",
+    "id": "hibana",
     "title": "ヒバナ",
     "titleKana": "",
     "producerId": "deco27",
-    "vocalId": "hatunemiku",
+    "vocalId": "hatsunemiku",
     "youtubeId": "hxSg2Ioz3LM",
     "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "ロック",
-      "エレクトロ",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","ロック","エレクトロ","VOCALOID"],
     "released": "2017-08-04",
     "summary": "DECO*27によるエレクトロロック楽曲",
     "lyricsLink": "https://utaten.com/lyric/sa17081004",
@@ -90,24 +69,20 @@
     "popularityScore": 0
   },
   {
-    "id": "tellyourworld-hatunemiku-kz",
+    "id": "tellyourworld",
     "title": "Tell Your World",
     "titleKana": "てるゆあわーるど",
     "producerId": "kz",
-    "vocalId": "hatunemiku",
+    "vocalId": "hatsunemiku",
     "youtubeId": "PqJNc9KVIZE",
     "niconicoId": "",
-    "tags": [
-      "初音ミク",
-      "エレクトロポップ",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","エレクトロポップ","VOCALOID"],
     "released": "2012-03-12",
     "summary": "kz（livetune）によるエレクトロポップ楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb41209090",
     "karaokeLink": "https://youtu.be/rvRbxl3T1vc",
     "streamingLink": "https://open.spotify.com/intl-ja/track/6kBNaF6seD0JqFl4aBJ55e",
-    "addedAt": "2026-03-09",
+    "addedAt": "2026-03-11",
     "addedWeek": "2026-03-09週",
     "recommendTags": [],
     "isRepresentative": false,
@@ -117,19 +92,14 @@
     "popularityScore": 0
   },
   {
-    "id": "meruto-hatunemiku-ryo",
+    "id": "melt",
     "title": "メルト",
     "titleKana": "",
     "producerId": "ryo",
-    "vocalId": "hatunemiku",
+    "vocalId": "hatsunemiku",
     "youtubeId": "",
     "niconicoId": "sm1715919",
-    "tags": [
-      "初音ミク",
-      "ポップス",
-      "恋愛",
-      "VOCALOID"
-    ],
+    "tags": ["初音ミク","ポップス","恋愛","VOCALOID"],
     "released": "2007-12-07",
     "summary": "ryo（supercell）による代表的な初音ミク楽曲",
     "lyricsLink": "https://utaten.com/lyric/jb50905027",
@@ -145,16 +115,14 @@
     "popularityScore": 0
   },
   {
-    "id": "roki-kagaminerin-mikitop",
+    "id": "roki",
     "title": "ロキ",
     "titleKana": "",
     "producerId": "mikitop",
     "vocalId": "kagaminerin",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "鏡音リン"
-    ],
+    "tags": ["鏡音リン"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -170,16 +138,14 @@
     "popularityScore": 0
   },
   {
-    "id": "sunanowakusei-hatunemiku-hati",
+    "id": "sunanowakusei",
     "title": "砂の惑星",
     "titleKana": "",
     "producerId": "hati",
     "vocalId": "hatunemiku",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "初音ミク"
-    ],
+    "tags": ["初音ミク"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
@@ -202,9 +168,7 @@
     "vocalId": "gumi",
     "youtubeId": "",
     "niconicoId": "",
-    "tags": [
-      "GUMI"
-    ],
+    "tags": ["GUMI"],
     "released": "",
     "summary": "",
     "lyricsLink": "",
