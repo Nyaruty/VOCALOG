@@ -23,7 +23,7 @@ export function headerHtml(active){
           <h1 class="logo">VOCALOG</h1>
           <span class="sub">ボカロを探す辞典</span>
         </a>
-        <button id="themeToggle" class="btn">🌙</button>
+        <button id="themeToggle" class="btn">●</button>
       </div>
       <nav class="nav">
         <a ${a("songs")} href="./index.html">曲</a>
