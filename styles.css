@@ -38,24 +38,28 @@ body{
 .logo{ margin:8px 0; font-size:18px; letter-spacing:.5px; }
 .sub{ color:var(--muted); font-size:12px; }
 
-.nav{
-  display: flex;
+.nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
   gap: 10px;
-  flex-wrap: wrap;
   margin: 8px 0 12px;
 }
 
-.nav a{
-  flex: 1;
-  min-width: 80px;
-  text-align: center;
+.nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
   color: var(--muted);
   padding: 8px 12px;
   border-radius: 10px;
   background: var(--card);
+  font-size: 14px;
 }
-.nav a:hover{ background:var(--card); color:var(--text); }
+.nav a:hover {
+  background: var(--card);
+  color: var(--text);
+}
 
 .btn{
   border:1px solid var(--border);
@@ -85,14 +89,27 @@ body{
 }
 textarea{ min-height:120px; resize:vertical; }
 
-.grid, .row { 
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+}
+
+.row > * {
+  flex: 1 1 160px;
+  min-width: 0;
+}
+
+.grid { 
   display: grid; 
   grid-template-columns: 1fr; 
   gap: 14px; 
 }
 
 @media (min-width: 900px){ 
-  .grid, .row { 
+  .grid { 
     grid-template-columns: 1fr 1fr; 
   } 
 }
