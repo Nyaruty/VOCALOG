@@ -56,7 +56,6 @@ async function main() {
       <div class="links">
         ${links.youtube ? `<a class="link" target="_blank" rel="noopener" href="${links.youtube}">YouTube</a>` : ""}
         ${links.x ? `<a class="link" target="_blank" rel="noopener" href="${links.x}">X</a>` : ""}
-        ${links.website ? `<a class="link" target="_blank" rel="noopener" href="${links.website}">Web</a>` : ""}
       </div>
     `
 
