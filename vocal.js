@@ -57,7 +57,6 @@ async function main(){
     const repSongs = allSongs.filter(s=>s.isRepresentative === true)
     const repItems = (repSongs.length ? repSongs : allSongs)
       .sort((a,b)=> safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja"))
-      .slice(0,10)
 
     if(songsNote){
       songsNote.textContent = repSongs.length
@@ -99,7 +98,6 @@ async function main(){
 
             return safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja")
           })
-          .slice(0,10)
       : allSongs
           .slice()
           .sort((a,b)=>{
@@ -109,7 +107,6 @@ async function main(){
 
             return safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja")
           })
-          .slice(0,10)
 
     if(popularBox){
       popularBox.innerHTML = popItems.map(s=>`
