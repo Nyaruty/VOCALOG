@@ -87,7 +87,6 @@ async function main() {
 
         return (a.title || "").localeCompare(b.title || "", "ja")
       })
-      .slice(0, 10)
 
     if (songsNote) {
       songsNote.textContent = repSongs.length
@@ -126,7 +125,6 @@ async function main() {
 
         return (a.title || "").localeCompare(b.title || "", "ja")
       })
-      .slice(0, 10)
 
     if (popularBox) {
       popularBox.innerHTML = popItems.length
