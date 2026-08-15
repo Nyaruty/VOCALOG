@@ -21,6 +21,7 @@ function buildVocalNameToId(vocalsMap){
   }
   return m
 }
+
 function resolveVocalIds(song, vocalsMap){
   if(song && Array.isArray(song.vocalIds) && song.vocalIds.length) return song.vocalIds
   const nameToId = resolveVocalIds._nameToId || (resolveVocalIds._nameToId = buildVocalNameToId(vocalsMap))
@@ -32,6 +33,7 @@ function resolveVocalIds(song, vocalsMap){
   if(ids.length) return ids
   return song.vocalId ? [song.vocalId] : []
 }
+
 function vocalNames(song, vocalsMap){
   return resolveVocalIds(song, vocalsMap)
     .map(id => vocalsMap.get(id))
@@ -39,7 +41,6 @@ function vocalNames(song, vocalsMap){
     .map(v => v.name)
     .join("・")
 }
-
 
 function buildTagOptions(){
   const set = new Set()
@@ -63,15 +64,16 @@ function sortSongs(items){
     copy.sort((a,b)=>{
       const ak = safe(a.titleKana || a.title)
       const bk = safe(b.titleKana || b.title)
+
       return ak.localeCompare(bk, "ja")
         || safe(a.title).localeCompare(safe(b.title), "ja")
     })
-  })
   }else if(mode === "old"){
-    copy.sort((a,b)=> safe(a.released).localeCompare(safe(b.released)))
+    copy.sort((a,b)=> safe(a.released).localeCompare(safe(b.released), "ja"))
   }else{
-    copy.sort((a,b)=> safe(b.released).localeCompare(safe(a.released)))
+    copy.sort((a,b)=> safe(b.released).localeCompare(safe(a.released), "ja"))
   }
+
   return copy
 }
 
@@ -127,6 +129,7 @@ async function main(){
     loadJson("./data/producers.json"),
     loadJson("./data/vocals.json")
   ])
+
   songs = sData
   producers = new Map(pData.map(p=>[p.id,p]))
   vocals = new Map(vData.map(v=>[v.id,v]))
