@@ -68,6 +68,7 @@ async function main(){
         ${s.niconicoId ? `<a class="link" target="_blank" rel="noopener" href="https://www.nicovideo.jp/watch/${encodeURIComponent((String(s.niconicoId).match(/(sm\d+)/) || [])[1] || s.niconicoId)}">ニコニコ</a>` : ""}
         ${s.spotifyLink ? `<a class="link" target="_blank" rel="noopener" href="${s.spotifyLink}">Spotify</a>` : ""}
         ${s.appleMusicLink ? `<a class="link" target="_blank" rel="noopener" href="${s.appleMusicLink}">Apple Music</a>` : ""}
+        ${s.youtubeMusicLink ? `<a class="link" target="_blank" rel="noopener" href="${s.youtubeMusicLink}">YouTube Music</a>` : ""}
         ${s.lyricsLink ? `<a class="link" target="_blank" rel="noopener" href="${s.lyricsLink}">歌詞</a>` : ""}
       </div>
 
