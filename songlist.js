@@ -72,8 +72,6 @@ function sortSongs(items){
       const bk = safe(b.titleKana || b.title)
       return ak.localeCompare(bk,"ja")
     })
-  }else if(mode === "az"){
-    copy.sort((a,b)=> safe(a.title).localeCompare(safe(b.title),"ja"))
   }else if(mode === "old"){
     copy.sort((a,b)=> safe(a.released).localeCompare(safe(b.released)))
   }else{
