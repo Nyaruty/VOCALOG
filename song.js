@@ -67,8 +67,8 @@ async function main(){
         ${s.youtubeId ? `<a class="link" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=${encodeURIComponent(s.youtubeId)}">YouTube</a>` : ""}
         ${s.niconicoId ? `<a class="link" target="_blank" rel="noopener" href="https://www.nicovideo.jp/watch/${encodeURIComponent((String(s.niconicoId).match(/(sm\d+)/) || [])[1] || s.niconicoId)}">ニコニコ</a>` : ""}
         ${s.streamingLink ? `<a class="link" target="_blank" rel="noopener" href="${s.streamingLink}">Spotify</a>` : ""}
+        ${s.appleMusicLink ? `<a class="link" target="_blank" rel="noopener" href="${s.appleMusicLink}">Apple Music</a>` : ""}
         ${s.lyricsLink ? `<a class="link" target="_blank" rel="noopener" href="${s.lyricsLink}">歌詞</a>` : ""}
-        ${s.karaokeLink ? `<a class="link" target="_blank" rel="noopener" href="${s.karaokeLink}">カラオケ</a>` : ""}
       </div>
 
       <div class="tags">${(s.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join("")}</div>
