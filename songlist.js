@@ -53,13 +53,6 @@ function buildTagOptions(){
     opt.textContent = t
     tagSel.appendChild(opt)
   }
-
-  if(!Array.from(sortSel.options).some(o=>o.value==="kana")){
-    const opt = document.createElement("option")
-    opt.value = "kana"
-    opt.textContent = "かな順"
-    sortSel.appendChild(opt)
-  }
 }
 
 function sortSongs(items){
@@ -70,8 +63,10 @@ function sortSongs(items){
     copy.sort((a,b)=>{
       const ak = safe(a.titleKana || a.title)
       const bk = safe(b.titleKana || b.title)
-      return ak.localeCompare(bk,"ja")
+      return ak.localeCompare(bk, "ja")
+        || safe(a.title).localeCompare(safe(b.title), "ja")
     })
+  })
   }else if(mode === "old"){
     copy.sort((a,b)=> safe(a.released).localeCompare(safe(b.released)))
   }else{
