@@ -55,6 +55,7 @@ async function main() {
     const linkHtml = `
       <div class="links">
         ${links.youtube ? `<a class="link" target="_blank" rel="noopener" href="${links.youtube}">YouTube</a>` : ""}
+        ${links.niconico ? `<a class="link" target="_blank" rel="noopener" href="${links.niconico}">ニコニコ</a>` : ""}
         ${links.x ? `<a class="link" target="_blank" rel="noopener" href="${links.x}">X</a>` : ""}
       </div>
     `
