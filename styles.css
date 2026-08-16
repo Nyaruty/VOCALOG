@@ -270,6 +270,8 @@ select::-ms-expand {
 
 .moreButton{
   display:block;
+  grid-column:1 / -1;
+  justify-self:center;
   margin:16px auto 0;
   padding:8px 18px;
   border:1px solid var(--border);
