@@ -17,7 +17,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": ["初心者向け","エモい","バラード"],
     "isRepresentative": true,
-    "popularityScore": 90,
+    "isPopular": true,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
@@ -39,7 +39,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": ["初心者向け","名曲","中毒性","和風","ロック"],
     "isRepresentative": true,
-    "popularityScore": 100,
+    "isPopular": true,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
@@ -61,7 +61,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": ["初心者向け","名曲","中毒性","ロック"],
     "isRepresentative": true,
-    "popularityScore": 98,
+    "isPopular": true,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
@@ -83,7 +83,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": ["初心者向け","名曲","エモい","バラード"],
     "isRepresentative": true,
-    "popularityScore": 98,
+    "isPopular": true,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
@@ -105,7 +105,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": [],
     "isRepresentative": true,
-    "popularityScore": 100,
+    "isPopular": true,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
@@ -127,7 +127,7 @@
     "addedWeek": "2026-08-10週",
     "recommendTags": [],
     "isRepresentative": false,
-    "popularityScore": 0,
+    "isPopular": false,
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false
   },
