@@ -94,9 +94,32 @@ async function main() {
         : "代表曲未設定のため、最新曲を表示中"
     }
 
-    songsBox.innerHTML = repItems.length
-      ? repItems.map(s => renderSongCard(s, vMap, "repCard")).join("")
-      : `<p class="muted">まだ曲データがない</p>`
+    let repExpanded = false
+
+    function renderRepSongs() {
+      const visibleSongs = repExpanded
+        ? repItems
+        : repItems.slice(0, 2)
+
+      songsBox.innerHTML = visibleSongs.length
+        ? visibleSongs.map(s => renderSongCard(s, vMap, "repCard")).join("")
+        : `<p class="muted">まだ曲データがない</p>`
+
+      if (repItems.length > 2) {
+        songsBox.insertAdjacentHTML("beforeend", `
+          <button class="moreButton" type="button">
+            ${repExpanded ? "閉じる" : "もっと見る"}
+          </button>
+        `)
+
+        songsBox.querySelector(".moreButton").onclick = () => {
+          repExpanded = !repExpanded
+          renderRepSongs()
+        }
+      }
+    }
+
+    renderRepSongs()
 
     const popularSongs = allSongs.filter(s => s.isPopular === true)
 
@@ -121,9 +144,32 @@ async function main() {
       })
 
     if (popularBox) {
-      popularBox.innerHTML = popItems.length
-        ? popItems.map(s => renderSongCard(s, vMap, "popularCard")).join("")
-        : `<p class="muted">まだ曲データがない</p>`
+      let popExpanded = false
+
+      function renderPopularSongs() {
+        const visibleSongs = popExpanded
+          ? popItems
+          : popItems.slice(0, 2)
+
+        popularBox.innerHTML = visibleSongs.length
+          ? visibleSongs.map(s => renderSongCard(s, vMap, "popularCard")).join("")
+          : `<p class="muted">まだ曲データがない</p>`
+
+        if (popItems.length > 2) {
+          popularBox.insertAdjacentHTML("beforeend", `
+            <button class="moreButton" type="button">
+              ${popExpanded ? "閉じる" : "もっと見る"}
+            </button>
+          `)
+
+          popularBox.querySelector(".moreButton").onclick = () => {
+            popExpanded = !popExpanded
+            renderPopularSongs()
+          }
+        }
+      }
+
+      renderPopularSongs()
     }
   } catch (err) {
     content.innerHTML = `<p>読み込み失敗: ${escapeHtml(err.message)}</p>`
