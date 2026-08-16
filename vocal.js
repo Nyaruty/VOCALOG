@@ -75,38 +75,24 @@ async function main(){
       </a>
     `).join("") || `<p class="muted">まだ曲データがない</p>`
 
-    const popularSongs = allSongs.filter(s=> Number(s.popularityScore) > 0)
-    const hasScore = popularSongs.length > 0
+    const popularSongs = allSongs.filter(s => s.isPopular === true)
+    const hasPopular = popularSongs.length > 0
 
     if(popularNote){
-      popularNote.textContent = hasScore
+      popularNote.textContent = hasPopular
         ? ""
         : "人気曲未設定のため、最新曲を表示中"
     }
 
-    const popItems = hasScore
-      ? popularSongs
-          .slice()
-          .sort((a,b)=>{
-            const as = Number(a.popularityScore) || 0
-            const bs = Number(b.popularityScore) || 0
-            if(as !== bs) return bs - as
+    const popItems = (hasPopular ? popularSongs : allSongs)
+      .slice()
+      .sort((a,b)=>{
+        const aw = isThisWeek(a) ? 1 : 0
+        const bw = isThisWeek(b) ? 1 : 0
+        if(aw !== bw) return bw - aw
 
-            const aw = isThisWeek(a) ? 1 : 0
-            const bw = isThisWeek(b) ? 1 : 0
-            if(aw !== bw) return bw - aw
-
-            return safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja")
-          })
-      : allSongs
-          .slice()
-          .sort((a,b)=>{
-            const aw = isThisWeek(a) ? 1 : 0
-            const bw = isThisWeek(b) ? 1 : 0
-            if(aw !== bw) return bw - aw
-
-            return safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja")
-          })
+        return safe(b.released).localeCompare(safe(a.released)) || safe(a.title).localeCompare(safe(b.title),"ja")
+      })
 
     if(popularBox){
       popularBox.innerHTML = popItems.map(s=>`
