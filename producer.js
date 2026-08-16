@@ -56,6 +56,9 @@ async function main() {
       <div class="links">
         ${links.youtube ? `<a class="link" target="_blank" rel="noopener" href="${links.youtube}">YouTube</a>` : ""}
         ${links.niconico ? `<a class="link" target="_blank" rel="noopener" href="${links.niconico}">ニコニコ</a>` : ""}
+        ${links.spotify ? `<a class="link" target="_blank" rel="noopener" href="${links.spotify}">Spotify</a>` : ""}
+        ${links.appleMusic ? `<a class="link" target="_blank" rel="noopener" href="${links.appleMusic}">Apple Music</a>` : ""}
+        ${links.youtubeMusic ? `<a class="link" target="_blank" rel="noopener" href="${links.youtubeMusic}">YouTube Music</a>` : ""}
         ${links.x ? `<a class="link" target="_blank" rel="noopener" href="${links.x}">X</a>` : ""}
       </div>
     `
