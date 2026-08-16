@@ -267,3 +267,19 @@ iframe{ width:100%; aspect-ratio:16/9; border:0; border-radius:10px; }
 select::-ms-expand {
   display: none;
 }
+
+.moreButton{
+  display:block;
+  margin:16px auto 0;
+  padding:8px 18px;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:var(--card);
+  color:var(--text);
+  cursor:pointer;
+  font-size:14px;
+}
+
+.moreButton:hover{
+  background:var(--bg);
+}
