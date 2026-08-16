@@ -98,7 +98,7 @@ async function main() {
       ? repItems.map(s => renderSongCard(s, vMap, "repCard")).join("")
       : `<p class="muted">まだ曲データがない</p>`
 
-    const popularSongs = allSongs.filter(s => Number(s.popularityScore) > 0)
+    const popularSongs = allSongs.filter(s => s.isPopular === true)
 
     if (popularNote) {
       popularNote.textContent = popularSongs.length
@@ -109,12 +109,6 @@ async function main() {
     const popItems = (popularSongs.length ? popularSongs : allSongs)
       .slice()
       .sort((a, b) => {
-        if (popularSongs.length) {
-          const as = Number(a.popularityScore) > 0 ? Number(a.popularityScore) : -1
-          const bs = Number(b.popularityScore) > 0 ? Number(b.popularityScore) : -1
-          if (as !== bs) return bs - as
-        }
-
         const aw = isThisWeek(a) ? 1 : 0
         const bw = isThisWeek(b) ? 1 : 0
         if (aw !== bw) return bw - aw
