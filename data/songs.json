@@ -18,8 +18,8 @@
     "recommendTags": ["初心者向け","エモい","バラード"],
     "isRepresentative": true,
     "isPopular": true,
-    "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false
+    "isNewWeeklyPick": true,
+    "isWeeklyPromoted": true
   },
   {
     "id": "senbonzakura",
@@ -40,7 +40,7 @@
     "recommendTags": ["初心者向け","名曲","中毒性","和風","ロック"],
     "isRepresentative": true,
     "isPopular": true,
-    "isNewWeeklyPick": false,
+    "isNewWeeklyPick": true,
     "isWeeklyPromoted": false
   },
   {
@@ -58,7 +58,7 @@
     "appleMusicLink": "https://music.apple.com/jp/song/%E3%83%92%E3%83%90%E3%83%8A-reloaded/1801477850",
     "youtubeMusicLink": "https://music.youtube.com/watch?v=hxSg2Ioz3LM&si=mRdkFApcqBUBmiUa",
     "lyricsLink": "https://utaten.com/lyric/sa17081004",
-    "addedWeek": "2026-08-10週",
+    "addedWeek": "2026-08-17週",
     "recommendTags": ["初心者向け","名曲","中毒性","ロック"],
     "isRepresentative": true,
     "isPopular": true,
@@ -80,7 +80,7 @@
     "appleMusicLink": "https://music.apple.com/jp/song/tell-your-world-feat-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/505898722",
     "youtubeMusicLink": "https://music.youtube.com/watch?v=4n94ukt15qg&si=u-HaZGsCwY3htpWK",
     "lyricsLink": "https://utaten.com/lyric/jb41209090",
-    "addedWeek": "2026-08-10週",
+    "addedWeek": "2026-08-17週",
     "recommendTags": ["初心者向け","名曲","エモい","バラード"],
     "isRepresentative": true,
     "isPopular": true,
@@ -102,7 +102,7 @@
     "appleMusicLink": "https://music.apple.com/jp/song/%E3%83%A1%E3%83%AB%E3%83%88-miku-expo-2014-in-indonesia-live/925583034",
     "youtubeMusicLink": "",
     "lyricsLink": "https://utaten.com/lyric/jb50905027",
-    "addedWeek": "2026-08-10週",
+    "addedWeek": "2026-08-17週",
     "recommendTags": [],
     "isRepresentative": true,
     "isPopular": true,
