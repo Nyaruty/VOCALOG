@@ -19,7 +19,7 @@
     "nameKana": "おとまちうな",
     "engine": "VOCALOID4 / VOCALOID6",
     "released": "2016-07-30",
-    "developer": "インターネット",
+    "developer": "エム・ティー・ケー / インターネット",
     "voiceProvider": "田中あいみ",
     "summary": "元気で弾けるような歌声が特徴のバーチャル・シンガー",
     "links": {
@@ -45,7 +45,7 @@
     "id": "KAITO",
     "name": "KAITO",
     "nameKana": "かいと",
-    "engine": "VOCALOID / VOCALOID3 / VOCALOID4X / NT",
+    "engine": "VOCALOID / VOCALOID3",
     "released": "2006-02-17",
     "developer": "クリプトン・フューチャー・メディア",
     "voiceProvider": "風雅なおと",
@@ -59,7 +59,7 @@
     "id": "KagamineRin",
     "name": "鏡音リン (Kagamine Rin)",
     "nameKana": "かがみねりん",
-    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "engine": "VOCALOID2 / VOCALOID4 / NT",
     "released": "2007-12-27",
     "developer": "クリプトン・フューチャー・メディア",
     "voiceProvider": "下田麻美",
@@ -73,7 +73,7 @@
     "id": "KagamineLen",
     "name": "鏡音レン (Kagamine Len)",
     "nameKana": "かがみねれん",
-    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "engine": "VOCALOID2 / VOCALOID4 / NT",
     "released": "2007-12-27",
     "developer": "クリプトン・フューチャー・メディア",
     "voiceProvider": "下田麻美",
@@ -115,7 +115,7 @@
     "id": "KamuiGakupo",
     "name": "神威がくぽ (Kamui Gakupo)",
     "nameKana": "かむいがくぽ",
-    "engine": "VOCALOID2 / VOCALOID4",
+    "engine": "VOCALOID2 / VOCALOID3 / VOCALOID4",
     "released": "2008-07-31",
     "developer": "インターネット",
     "voiceProvider": "GACKT",
@@ -135,7 +135,7 @@
     "voiceProvider": "中島愛",
     "summary": "力強さと透明感を併せ持つ歌声が特徴のバーチャル・シンガー",
     "links": {
-      "official": "https://www.ssw.co.jp/products/talk/aivoice_gumi",
+      "official": "https://www.ssw.co.jp/products/vocal/gumi",
       "wikipedia": "https://ja.wikipedia.org/wiki/GUMI"
     }
   },
@@ -145,7 +145,7 @@
     "nameKana": "",
     "engine": "VOICEVOX / NEUTRINO / CeVIO AI",
     "released": "2021-08-01",
-    "developer": "SSS合同会社（VOICEVOX） / 東北ずん子プロジェクト",
+    "developer": "SSS合同会社 / 東北ずん子プロジェクト",
     "voiceProvider": "伊藤ゆいな",
     "summary": "東北ずん子プロジェクトから誕生したキャラクター",
     "links": {
@@ -160,10 +160,10 @@
     "engine": "CeVIO AI",
     "released": "2022-04-29",
     "developer": "KAMITSUBAKI STUDIO",
-    "voiceProvider": "星街すいせい",
-    "summary": "星街すいせいの声を元に制作された音楽的同位体",
+    "voiceProvider": "ヰ世界情緒",
+    "summary": "バーチャルシンガーヰ世界情緒の声を元に制作された音楽的同位体",
     "links": {
-      "official": "https://kamitsubaki.jp",
+      "official": "https://musical-isotope.kamitsubaki.jp/product/sekai",
       "wikipedia": "https://ja.wikipedia.org/wiki/星界"
     }
   },
@@ -187,19 +187,19 @@
     "nameKana": "ふらわ",
     "engine": "VOCALOID3 / VOCALOID4",
     "released": "2014-05-09",
-    "developer": "Gynoid",
+    "developer": "ガイノイド",
     "voiceProvider": "非公開",
     "summary": "中性的で力強いハスキーな歌声が特徴のバーチャル・シンガー",
     "links": {
-      "official": "https://www.v-flower.jp",
-      "wikipedia": "https://ja.wikipedia.org/wiki/V_flower"
+      "official": "https://www.gynoid.co.jp/items/view/8",
+      "wikipedia": "https://ja.wikipedia.org/wiki/v_flower"
     }
   },
   {
     "id": "MEIKO",
     "name": "MEIKO",
     "nameKana": "めいこ",
-    "engine": "VOCALOID / VOCALOID3 / VOCALOID4X / NT",
+    "engine": "VOCALOID / VOCALOID3",
     "released": "2004-11-05",
     "developer": "クリプトン・フューチャー・メディア",
     "voiceProvider": "拝郷メイコ",
@@ -213,7 +213,7 @@
     "id": "MegurineLuka",
     "name": "巡音ルカ (Megurine Luka)",
     "nameKana": "めぐりねるか",
-    "engine": "VOCALOID2 / VOCALOID4X / NT",
+    "engine": "VOCALOID2 / VOCALOID4",
     "released": "2009-01-30",
     "developer": "クリプトン・フューチャー・メディア",
     "voiceProvider": "浅川悠",
