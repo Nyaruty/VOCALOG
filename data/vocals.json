@@ -51,7 +51,7 @@
     "voiceProvider": "風雅なおと",
     "summary": "クリプトン初の男性バーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/kaitov3",
       "wikipedia": "https://ja.wikipedia.org/wiki/KAITO"
     }
   },
@@ -65,7 +65,7 @@
     "voiceProvider": "下田麻美",
     "summary": "鏡音レンと対になるバーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/rinlennt",
       "wikipedia": "https://ja.wikipedia.org/wiki/鏡音リン・レン"
     }
   },
@@ -79,7 +79,7 @@
     "voiceProvider": "下田麻美",
     "summary": "鏡音リンと対になるバーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/rinlennt",
       "wikipedia": "https://ja.wikipedia.org/wiki/鏡音リン・レン"
     }
   },
@@ -135,7 +135,7 @@
     "voiceProvider": "中島愛",
     "summary": "力強さと透明感を併せ持つ歌声が特徴のバーチャル・シンガー",
     "links": {
-      "official": "https://www.ssw.co.jp/products/vocaloid4/gumi",
+      "official": "https://www.ssw.co.jp/products/talk/aivoice_gumi",
       "wikipedia": "https://ja.wikipedia.org/wiki/GUMI"
     }
   },
@@ -164,7 +164,7 @@
     "summary": "星街すいせいの声を元に制作された音楽的同位体",
     "links": {
       "official": "https://kamitsubaki.jp",
-      "wikipedia": "https://ja.wikipedia.org/wiki/音楽的同位体"
+      "wikipedia": "https://ja.wikipedia.org/wiki/星界"
     }
   },
   {
@@ -177,7 +177,7 @@
     "voiceProvider": "藤田咲",
     "summary": "世界的に人気を持つバーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01",
       "wikipedia": "https://ja.wikipedia.org/wiki/初音ミク"
     }
   },
@@ -205,7 +205,7 @@
     "voiceProvider": "拝郷メイコ",
     "summary": "クリプトン初の女性バーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/meikov3",
       "wikipedia": "https://ja.wikipedia.org/wiki/MEIKO"
     }
   },
@@ -219,7 +219,7 @@
     "voiceProvider": "浅川悠",
     "summary": "日本語と英語の両方に対応したバーチャル・シンガー",
     "links": {
-      "official": "https://blog.piapro.net",
+      "official": "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv03",
       "wikipedia": "https://ja.wikipedia.org/wiki/巡音ルカ"
     }
   }
