@@ -102,7 +102,7 @@ function renderTag(tag){
     return
   }
   const items = songs.filter(s=> (s.recommendTags||[]).includes(tag))
-  const top10 = sortByReleasedDesc(items)
+  const sortedItems = sortByReleasedDesc(items)
   
   tagHint.textContent = `「${tag}」おすすめ（${items.length}曲）`
   tagListEl.innerHTML = sortedItems.map(card).join("") || `<p class="muted">このタグの曲がまだありません</p>`
