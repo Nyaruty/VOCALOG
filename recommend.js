@@ -105,7 +105,7 @@ function renderTag(tag){
   const top10 = sortByReleasedDesc(items)
   
   tagHint.textContent = `「${tag}」おすすめ（${items.length}曲）`
-  tagListEl.innerHTML = top10.map(card).join("") || `<p class="muted">このタグの曲がまだありません</p>`
+  tagListEl.innerHTML = sortedItems.map(card).join("") || `<p class="muted">このタグの曲がまだありません</p>`
 }
 
 async function main(){
