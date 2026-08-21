@@ -16,9 +16,9 @@
     "tags": ["可不","CeVIO AI","バラード"],
     "isRepresentative": true,
     "isPopular": true,
-    "addedWeek": "2026-08-10週",
-    "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
+    "addedWeek": "2026-08-17週",
+    "isNewWeeklyPick": true,
+    "isWeeklyPromoted": true,
     "recommendTags": ["初心者向け","エモい","バラード"]
   },
   {
@@ -38,8 +38,8 @@
     "tags": ["初音ミク","VOCALOID","和風","ロック"],
     "isRepresentative": true,
     "isPopular": true,
-    "addedWeek": "2026-08-10週",
-    "isNewWeeklyPick": false,
+    "addedWeek": "2026-08-17週",
+    "isNewWeeklyPick": true,
     "isWeeklyPromoted": false,
     "recommendTags": ["初心者向け","名曲","中毒性","和風","ロック"]
   },
@@ -60,9 +60,9 @@
     "tags": ["初音ミク","VOCALOID","エレクトロ","ロック"],
     "isRepresentative": true,
     "isPopular": true,
-    "addedWeek": "2026-08-10週",
+    "addedWeek": "2026-08-17週",
     "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
+    "isWeeklyPromoted": true,
     "recommendTags": ["初心者向け","名曲","中毒性","ロック"]
   },
   {
@@ -82,7 +82,7 @@
     "tags": ["初音ミク","VOCALOID","エレクトロポップ"],
     "isRepresentative": true,
     "isPopular": true,
-    "addedWeek": "2026-08-10週",
+    "addedWeek": "2026-08-17週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
     "recommendTags": ["初心者向け","名曲","エモい","バラード"]
@@ -105,8 +105,8 @@
     "isRepresentative": true,
     "isPopular": true,
     "addedWeek": "2026-08-10週",
-    "isNewWeeklyPick": false,
-    "isWeeklyPromoted": false,
+    "isNewWeeklyPick": true,
+    "isWeeklyPromoted": true,
     "recommendTags": ["初心者向け","名曲","エモい","バラード"]
   },
   {
@@ -129,7 +129,7 @@
     "addedWeek": "2026-08-10週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
-    "recommendTags": []
+    "recommendTags": ["初心者向け"]
   },
   {
     "id": "sunanowakusei",
@@ -151,7 +151,7 @@
     "addedWeek": "2026-08-10週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
-    "recommendTags": []
+    "recommendTags": ["初心者向け"]
   },
   {
     "id": "donuthole",
@@ -173,7 +173,7 @@
     "addedWeek": "2026-08-10週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
-    "recommendTags": []
+    "recommendTags": ["初心者向け"]
   },
   {
     "id": "matryoshka",
@@ -195,7 +195,7 @@
     "addedWeek": "2026-08-10週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
-    "recommendTags": []
+    "recommendTags": ["初心者向け"]
   },
   {
     "id": "nousyousakuretugaru-hatunemiku-reruriri",
@@ -217,7 +217,7 @@
     "addedWeek": "2026-08-10週",
     "isNewWeeklyPick": false,
     "isWeeklyPromoted": false,
-    "recommendTags": []
+    "recommendTags": ["初心者向け"]
   },
   {
     "id": "amanozyaku-gumi-164",
