@@ -33,6 +33,7 @@ export function headerHtml(active){
         <a ${a("new")} href="./new.html">新着</a>
         <a ${a("recommend")} href="./recommend.html">おすすめ</a>
         <a ${a("request")} href="./request.html">リクエスト</a>
+        <a ${a("usage")} href="./usage.html">使い方</a>
       </nav>
     </div>
   </header>
