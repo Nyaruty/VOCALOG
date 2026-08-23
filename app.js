@@ -8,7 +8,7 @@ export function qs(id){ return document.getElementById(id) }
 export function getParam(name){ return new URLSearchParams(location.search).get(name) }
 
 export async function loadJson(path){
-  const r = await fetch(path, { cache: "no-store" })
+  const r = await fetch(path)
   if(!r.ok) throw new Error(`${path} ${r.status}`)
   return r.json()
 }
