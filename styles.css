@@ -295,7 +295,7 @@ iframe{
   background-image:none !important;
   color:var(--text);
   border:1px solid var(--border);
-  border-radius:10px;
+  border-radius:4px;
   font-size:16px;
   outline:none;
 }
@@ -308,8 +308,6 @@ iframe{
 .selectWrap select option{
   background-color:var(--card);
   color:var(--text);
-  border:none;
-  outline:none;
 }
 
 .selectWrap::after{
