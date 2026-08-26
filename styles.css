@@ -354,3 +354,8 @@ html {
 [data-theme="dark"] ::-webkit-scrollbar-thumb {
   background: #2f3540;
 }
+
+select option {
+  background-color: var(--card);
+  color: var(--text);
+}
