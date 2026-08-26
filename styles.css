@@ -276,38 +276,6 @@ iframe{
   margin-left:0;
 }
 
-::-webkit-scrollbar{
-  width:8px;
-}
-
-::-webkit-scrollbar-track{
-  background:var(--bg);
-}
-
-::-webkit-scrollbar-thumb{
-  background:#d6d6d6;
-  border-radius:10px;
-  border:2px solid var(--bg);
-}
-
-::-webkit-scrollbar-thumb:hover{
-  background:#bcbcbc;
-}
-
-[data-theme="dark"] ::-webkit-scrollbar-track{
-  background:var(--bg);
-}
-
-[data-theme="dark"] ::-webkit-scrollbar-thumb{
-  background:#2f3540;
-  border-radius:10px;
-  border:2px solid var(--bg);
-}
-
-[data-theme="dark"] ::-webkit-scrollbar-thumb:hover{
-  background:#3b4350;
-}
-
 .selectWrap{
   position:relative;
   flex:1;
