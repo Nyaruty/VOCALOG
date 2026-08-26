@@ -291,23 +291,12 @@ iframe{
   appearance:none;
   -webkit-appearance:none;
   -moz-appearance:none;
-  background-color:var(--card);
+  background:var(--card);
   background-image:none !important;
   color:var(--text);
   border:1px solid var(--border);
-  border-radius:4px;
+  border-radius:10px;
   font-size:16px;
-  outline:none;
-}
-
-.selectWrap select:focus{
-  outline:none;
-  border-color:var(--border);
-}
-
-.selectWrap select option{
-  background-color:var(--card);
-  color:var(--text);
 }
 
 .selectWrap::after{
