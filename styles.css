@@ -291,12 +291,25 @@ iframe{
   appearance:none;
   -webkit-appearance:none;
   -moz-appearance:none;
-  background:var(--card);
+  background-color:var(--card);
   background-image:none !important;
   color:var(--text);
   border:1px solid var(--border);
   border-radius:10px;
   font-size:16px;
+  outline:none;
+}
+
+.selectWrap select:focus{
+  outline:none;
+  border-color:var(--border);
+}
+
+.selectWrap select option{
+  background-color:var(--card);
+  color:var(--text);
+  border:none;
+  outline:none;
 }
 
 .selectWrap::after{
@@ -353,9 +366,4 @@ html {
 
 [data-theme="dark"] ::-webkit-scrollbar-thumb {
   background: #2f3540;
-}
-
-select option {
-  background-color: var(--card);
-  color: var(--text);
 }
