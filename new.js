@@ -44,7 +44,7 @@ function vocalNames(song, vocalsMap){
 function card(s){
   const pObj = producers.get(s.producerId) || {}
   return `
-    <a class="card cardLink" href="./song.${encodeURIComponent(s.id)}">
+    <a class="card cardLink" href="./song.html?id=${encodeURIComponent(s.id)}">
       <h2 class="title">
         ${escapeHtml(s.title)}
         ${s.titleKana ? `<span class="reading">(${escapeHtml(s.titleKana)})</span>` : ""}
@@ -89,7 +89,7 @@ function renderArchive(weeks, map, selectedWeek){
     const n = (map.get(wk)||[]).length
     const isActive = wk === selectedWeek
     return `
-      <a class="archiveItem ${isActive ? "active" : ""}" href="./new?week=${encodeURIComponent(wk)}">
+      <a class="archiveItem ${isActive ? "active" : ""}" href="./new.html?week=${encodeURIComponent(wk)}">
         <div class="archiveTitle">${escapeHtml(wk)}</div>
         <div class="muted">${n}曲</div>
       </a>
