@@ -6,13 +6,16 @@ export function escapeHtml(str){
 export function norm(s){ return String(s||"").toLowerCase() }
 export function qs(id){ return document.getElementById(id) }
 export function getParam(name){
-  const queryValue = new URLSearchParams(location.search).get(name)
+  const params = new URLSearchParams(location.search)
+  const queryValue = params.get(name)
   if(queryValue !== null) return queryValue
 
-  if(name === "id"){
-    const path = location.pathname.replace(/\/$/, "")
-    const match = path.match(/\/(?:song|producer|vocal)\.([^/]+)$/i)
-    return match ? decodeURIComponent(match[1]) : null
+  const path = location.pathname.replace(/\/$/, "")
+  const marker = `/${name}.`
+  const i = path.lastIndexOf(marker)
+  if(i !== -1){
+    const value = path.slice(i + marker.length)
+    return value ? decodeURIComponent(value) : null
   }
 
   return null
@@ -40,10 +43,10 @@ export function headerHtml(active){
         <a ${a("songs")} href="./index">曲</a>
         <a ${a("producers")} href="./producers">ボカロP</a>
         <a ${a("vocals")} href="./vocals">ボカロ</a>
-        <a ${a("history")} href="./history.html">歴史</a>
-        <a ${a("new")} href="./new.html">新着</a>
-        <a ${a("recommend")} href="./recommend.html">おすすめ</a>
-        <a ${a("request")} href="./request.html">リクエスト</a>
+        <a ${a("history")} href="./history">歴史</a>
+        <a ${a("new")} href="./new">新着</a>
+        <a ${a("recommend")} href="./recommend">おすすめ</a>
+        <a ${a("request")} href="./request">リクエスト</a>
       </nav>
     </div>
   </header>

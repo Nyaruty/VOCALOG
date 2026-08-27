@@ -13,48 +13,56 @@
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <div id="header"></div>
-  <main class="wrap" id="app"></main>
-  <script src="./theme.js"></script>
+  <div id="routerLoading" class="wrap" style="padding-top:40px;">読み込み中…</div>
   <script type="module">
-    const path = location.pathname.replace(/\/$/, "") || "/index";
-    const route = path.split("/").pop();
-    const dot = route.indexOf(".");
-    const type = dot >= 0 ? route.slice(0, dot).toLowerCase() : route.toLowerCase();
-
-    const templates = {
-      index: `
-        <div class="card">
-          <input id="q" class="input" placeholder="曲名 / ボカロP / ボカロ / タグで検索" />
-          <div class="row" style="margin-top:10px;">
-            <select id="sort"><option value="new">新しい順</option><option value="old">古い順</option><option value="kana">かな順</option></select>
-            <select id="tag"><option value="">タグで絞り込み</option></select>
-          </div>
-          <p class="muted" id="count"></p>
-        </div><div id="list" class="grid"></div>`,
-      producers: `<div class="card"><input id="q" class="input" placeholder="ボカロPを検索（名前/別名）" /><p class="muted" id="count"></p></div><div id="list" class="grid"></div>`,
-      vocals: `<div class="card"><input id="q" class="input" placeholder="ボカロを検索（名前/エンジン）" /><p class="muted" id="count"></p></div><div id="list" class="grid"></div>`,
-      new: `<div class="card"><h2 class="title" style="margin:0;">新着</h2><p class="muted" id="sub"></p></div><section class="card"><h3 class="title" style="margin:0;">今週のおすすめ</h3><p class="muted">今週追加の中からピックアップ</p><div id="weeklyPicks" class="grid"></div></section><section class="card"><h3 class="title" style="margin:0;">今週追加</h3><p class="muted" id="weekCount"></p><div id="weekList" class="grid"></div></section><section class="card"><h3 class="title" style="margin:0;">新着一覧</h3><p class="muted">週ごとにまとめて表示</p><div id="archive" class="list"></div></section>`,
-      recommend: `<section class="card"><h3 class="title" style="margin:0;">今週の新着おすすめ</h3><p class="muted">今週追加の中からピックアップ</p><div id="weeklyPicks" class="grid"></div></section><section class="card"><div class="row" style="align-items:center;"><h3 class="title" style="margin:0;">全体のおすすめ</h3><select id="recTag"><option value="" disabled selected hidden>タグを選択</option></select></div><p class="muted" id="tagHint">タグを選ぶとおすすめ曲を表示</p><div id="tagList" class="grid"></div></section>`,
-      history: `<div class="card"><div class="row"><select id="year"><option value="">全ての年</option></select><input id="q" class="input" placeholder="出来事を検索" /></div><p class="muted" id="count"></p></div><div id="list" class="grid"></div>`,
-      request: `<div class="card"><h2 class="title">楽曲リクエスト</h2><p class="muted">※お送りいただいた内容を確認のうえ、順次掲載を検討いたします（すべてのリクエストにお応えできるとは限りません）</p><div class="links" style="margin-top:12px;"><a class="link" target="_blank" rel="noopener" href="https://forms.gle/GxnaDBLykejfrMYw7">リクエストフォーム</a></div></div><div class="card" style="margin-top:16px;"><h2 class="title">公式X</h2><p class="muted">毎週10曲ほどの追加予定曲の予告や、サイトの使い方などを発信中<br>お問い合わせは、XのDMまでご連絡ください</p><div class="links" style="margin-top:12px;"><a class="link" target="_blank" rel="noopener" href="https://x.com/vocalog_jp">X</a></div></div>`,
-      song: `<div class="card"><a class="link" href="./index">← 曲一覧へ</a><div id="content" class="card"></div></div>`,
-      producer: `<div class="card"><a class="link" href="./producers">← ボカロP一覧へ</a><div id="content" class="card"></div></div><section class="card"><h3 class="title">代表曲</h3><p id="songsNote" class="muted"></p><div id="songs" class="grid"></div></section><section class="card"><h3 class="title">人気曲</h3><p id="popularNote" class="muted"></p><div id="popularSongs" class="grid"></div></section>`,
-      vocal: `<div class="card"><a class="link" href="./vocals">← ボカロ一覧へ</a><div id="content" class="card"></div></div><section class="card"><h3 class="title">代表曲</h3><p id="songsNote" class="muted"></p><div id="songs" class="grid"></div></section><section class="card"><h3 class="title">人気曲</h3><p id="popularNote" class="muted"></p><div id="popularSongs" class="grid"></div></section>`
+    const pathname = location.pathname.replace(/\/$/, "");
+    const routes = {
+      "/index": ["index.html", "songlist.js"],
+      "/producers": ["producers.html", "producers.js"],
+      "/vocals": ["vocals.html", "vocals.js"],
+      "/history": ["history.html", "history.js"],
+      "/new": ["new.html", "new.js"],
+      "/recommend": ["recommend.html", "recommend.js"],
+      "/request": ["request.html", null],
     };
 
-    const scripts = {index:"./songlist.js", producers:"./producers.js", vocals:"./vocals.js", new:"./new.js", recommend:"./recommend.js", history:"./history.js", request:null, song:"./song.js", producer:"./producer.js", vocal:"./vocal.js"};
-    const titles = {index:"VOCALOG", producers:"ボカロP - VOCALOG", vocals:"ボカロ - VOCALOG", new:"新着 - VOCALOG", recommend:"おすすめ - VOCALOG", history:"歴史 - VOCALOG", request:"リクエスト - VOCALOG"};
+    let htmlFile = null;
+    let moduleFile = null;
+    if (routes[pathname]) {
+      [htmlFile, moduleFile] = routes[pathname];
+    } else {
+      const m = pathname.match(/^\/(song|producer|vocal)\.(.+)$/);
+      if (m) {
+        htmlFile = `${m[1]}.html`;
+        moduleFile = `${m[1]}.js`;
+      }
+    }
 
-    document.getElementById("app").innerHTML = templates[type] || `<div class="card"><p>ページが見つかりませんでした</p></div>`;
-    document.title = titles[type] || "VOCALOG";
+    const loading = document.getElementById("routerLoading");
+    if (!htmlFile) {
+      loading.textContent = "ページが見つかりません";
+    } else {
+      try {
+        const response = await fetch(`./${htmlFile}`);
+        if (!response.ok) throw new Error(String(response.status));
+        const html = await response.text();
+        const doc = new DOMParser().parseFromString(html, "text/html");
 
-    const { headerHtml } = await import("./app.js");
-    const active = type === "song" ? "songs" : type;
-    document.getElementById("header").innerHTML = headerHtml(active);
+        document.title = doc.title || "VOCALOG";
+        document.body.innerHTML = doc.body.innerHTML;
 
-    if (scripts[type]) {
-      await import(scripts[type]);
+        // Run the existing theme script, then the page module.
+        const theme = document.createElement("script");
+        theme.src = "./theme.js";
+        document.body.appendChild(theme);
+
+        if (moduleFile) {
+          await import(`./${moduleFile}`);
+        }
+      } catch (error) {
+        document.body.innerHTML = `<main class="wrap"><div class="card"><p>読み込み失敗</p></div></main>`;
+        console.error(error);
+      }
     }
   </script>
 </body>

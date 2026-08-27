@@ -89,7 +89,7 @@ function renderArchive(weeks, map, selectedWeek){
     const n = (map.get(wk)||[]).length
     const isActive = wk === selectedWeek
     return `
-      <a class="archiveItem ${isActive ? "active" : ""}" href="./new.html?week=${encodeURIComponent(wk)}">
+      <a class="archiveItem ${isActive ? "active" : ""}" href="./new?week=${encodeURIComponent(wk)}">
         <div class="archiveTitle">${escapeHtml(wk)}</div>
         <div class="muted">${n}曲</div>
       </a>
