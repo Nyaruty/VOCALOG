@@ -70,7 +70,7 @@ async function main(){
       const visibleSongs = repExpanded ? repItems : repItems.slice(0, 2)
 
       songsBox.innerHTML = visibleSongs.map(s=>`
-        <a class="card cardLink repCard" href="./song.html?id=${encodeURIComponent(s.id)}">
+        <a class="card cardLink repCard" href="./song.${encodeURIComponent(s.id)}">
           <h3 class="title">
             ${escapeHtml(s.title)}
           </h3>
@@ -122,7 +122,7 @@ async function main(){
         const visibleSongs = popExpanded ? popItems : popItems.slice(0, 2)
 
         popularBox.innerHTML = visibleSongs.map(s=>`
-          <a class="card cardLink popularCard" href="./song.html?id=${encodeURIComponent(s.id)}">
+          <a class="card cardLink popularCard" href="./song.${encodeURIComponent(s.id)}">
             <h3 class="title">
               ${escapeHtml(s.title)}
             </h3>

@@ -12,7 +12,7 @@ const safe = (v)=> v==null ? "" : String(v)
 function render(items){
   count.textContent = `${items.length} 件`
   list.innerHTML = items.map(v=>`
-    <a class="card cardLink" href="./vocal.html?id=${encodeURIComponent(v.id)}">
+    <a class="card cardLink" href="./vocal.${encodeURIComponent(v.id)}">
       <h2 class="title">
         ${escapeHtml(v.name)}
         ${v.nameKana ? `<span class="reading">(${escapeHtml(v.nameKana)})</span>` : ""}

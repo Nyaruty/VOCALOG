@@ -26,7 +26,7 @@ function vocalLinks(song, vocalsArr){
   return resolveVocalIds(song, vocalsArr)
     .map(id => vMap.get(id))
     .filter(Boolean)
-    .map(v => `<a class="link" href="./vocal.html?id=${encodeURIComponent(v.id)}">${escapeHtml(v.name)}</a>`)
+    .map(v => `<a class="link" href="./vocal.${encodeURIComponent(v.id)}">${escapeHtml(v.name)}</a>`)
     .join("・")
 }
 
@@ -55,7 +55,7 @@ async function main(){
         </h2>
       </div>
       <p class="muted">
-        ${p ? `<a class="link" href="./producer.html?id=${encodeURIComponent(p.id)}">${escapeHtml(p.name)}</a>` : "不明"}
+        ${p ? `<a class="link" href="./producer.${encodeURIComponent(p.id)}">${escapeHtml(p.name)}</a>` : "不明"}
         /
         ${(vocalLinks(s, vocals) || "不明")}
       </p>

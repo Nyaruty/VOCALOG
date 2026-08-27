@@ -25,7 +25,7 @@ function getVocalText(song, vMap) {
 
 function renderSongCard(song, vMap, extraClass = "") {
   return `
-    <a class="card cardLink ${extraClass}".trim() href="./song.html?id=${encodeURIComponent(song.id)}">
+    <a class="card cardLink ${extraClass}".trim() href="./song.${encodeURIComponent(song.id)}">
       <h3 class="title">${escapeHtml(song.title || "無題")}</h3>
       <p class="muted">${escapeHtml(getVocalText(song, vMap))}</p>
       ${song.released ? `<p class="muted dateLabel">公開：${escapeHtml(song.released)}</p>` : ""}

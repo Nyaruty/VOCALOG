@@ -44,7 +44,7 @@ function vocalNames(song, vocalsMap){
 function card(s){
   const pObj = producers.get(s.producerId) || {}
   return `
-    <a class="card cardLink" href="./song.html?id=${encodeURIComponent(s.id)}">
+    <a class="card cardLink" href="./song.${encodeURIComponent(s.id)}">
       <h2 class="title">
         ${escapeHtml(s.title)}
         ${s.titleKana ? `<span class="reading">(${escapeHtml(s.titleKana)})</span>` : ""}
